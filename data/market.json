@@ -1,0 +1,1273 @@
+{
+  "schema": 1,
+  "publishedAt": "2026-11-20T11:58:42.751Z",
+  "appVersion": "1.15.0",
+  "market": {
+    "data": [
+      {
+        "name": "NIFTY 50",
+        "value": 25800.6,
+        "previousClose": 25514.3,
+        "change": 1.12,
+        "points": 286.2999999999993,
+        "asOf": "2026-11-20T10:00:00.000Z",
+        "source": "NSE India · snapshot may be delayed",
+        "sourceUrl": "https://www.nseindia.com/market-data/live-market-indices",
+        "advances": 32,
+        "declines": 18,
+        "unchanged": 0,
+        "high": 25808.8,
+        "low": 25345.2
+      },
+      {
+        "name": "SENSEX",
+        "value": 83919.71,
+        "previousClose": 83021.75,
+        "change": 1.0815960877721853,
+        "points": 897.9600000000064,
+        "asOf": "2026-11-20T10:02:29.000Z",
+        "source": "Yahoo Finance · snapshot may be delayed",
+        "sourceUrl": "https://finance.yahoo.com/quote/%5EBSESN/"
+      },
+      {
+        "name": "NIFTY BANK",
+        "value": 64635.2,
+        "previousClose": 63063,
+        "change": 2.49,
+        "points": 1572.199999999997,
+        "asOf": "2026-11-20T10:00:00.000Z",
+        "source": "NSE India · snapshot may be delayed",
+        "sourceUrl": "https://www.nseindia.com/market-data/live-market-indices",
+        "advances": 14,
+        "declines": 0,
+        "unchanged": 0,
+        "high": 64680.8,
+        "low": 62598.55
+      }
+    ],
+    "segments": [
+      {
+        "segment": "Large cap",
+        "name": "NIFTY 100",
+        "url": "https://www.niftyindices.com/indices/equity/broad-based-indices/nifty-100",
+        "value": 26662.85,
+        "previousClose": 26398.9,
+        "change": 1,
+        "points": 263.9499999999971,
+        "asOf": "2026-11-20T10:00:00.000Z",
+        "source": "NSE India · snapshot may be delayed",
+        "sourceUrl": "https://www.nseindia.com/market-data/live-market-indices",
+        "advances": 60,
+        "declines": 40,
+        "unchanged": 0,
+        "high": 26664.65,
+        "low": 26205.45
+      },
+      {
+        "segment": "Mid cap",
+        "name": "NIFTY MIDCAP 150",
+        "url": "https://www.niftyindices.com/indices/equity/broad-based-indices/nifty-midcap-150",
+        "value": 22750.8,
+        "previousClose": 22613.85,
+        "change": 0.61,
+        "points": 136.95000000000073,
+        "asOf": "2026-11-20T10:00:00.000Z",
+        "source": "NSE India · snapshot may be delayed",
+        "sourceUrl": "https://www.nseindia.com/market-data/live-market-indices",
+        "advances": 88,
+        "declines": 62,
+        "unchanged": 0,
+        "high": 22750.8,
+        "low": 22434.7
+      },
+      {
+        "segment": "Small cap",
+        "name": "NIFTY SMALLCAP 250",
+        "url": "https://www.niftyindices.com/indices/equity/broad-based-indices/niftysmallcap250",
+        "value": 17785.5,
+        "previousClose": 17802.9,
+        "change": -0.1,
+        "points": -17.400000000001455,
+        "asOf": "2026-11-20T10:00:00.000Z",
+        "source": "NSE India · snapshot may be delayed",
+        "sourceUrl": "https://www.nseindia.com/market-data/live-market-indices",
+        "advances": 97,
+        "declines": 153,
+        "unchanged": 1,
+        "high": 17802,
+        "low": 17651.15
+      }
+    ],
+    "fetchedAt": "2026-11-20T11:58:42.751Z"
+  },
+  "snapshots": {
+    "weekly": {
+      "period": "weekly",
+      "start": "2026-11-12",
+      "end": "2026-11-19",
+      "summary": "Consumption had the highest average return (0.73%) and Technology the lowest (-2.10%) among 17 categories with at least 3 funds and 80% coverage. These are equal-weight fund-category averages, not market indices.",
+      "source": "AMFI NAV history and scheme master via Tigzig",
+      "sourceUrl": "https://www.tigzig.com/apis/mf-nav",
+      "fetchedAt": "2026-11-20T11:58:54.960Z",
+      "rows": [
+        {
+          "category": "Large cap",
+          "eligible": 37,
+          "count": 37,
+          "coverage": 100,
+          "change": 0.5778156824656867,
+          "median": 0.6203331418724867,
+          "up": 34,
+          "down": 3
+        },
+        {
+          "category": "Large & mid cap",
+          "eligible": 38,
+          "count": 38,
+          "coverage": 100,
+          "change": -0.198022414965608,
+          "median": -0.11024244309089659,
+          "up": 13,
+          "down": 24
+        },
+        {
+          "category": "Mid cap",
+          "eligible": 33,
+          "count": 33,
+          "coverage": 100,
+          "change": -0.5793856434793763,
+          "median": -0.5639097744360999,
+          "up": 3,
+          "down": 30
+        },
+        {
+          "category": "Small cap",
+          "eligible": 36,
+          "count": 36,
+          "coverage": 100,
+          "change": -0.7414201075094327,
+          "median": -0.7508838271511553,
+          "up": 1,
+          "down": 35
+        },
+        {
+          "category": "Flexi cap",
+          "eligible": 46,
+          "count": 46,
+          "coverage": 100,
+          "change": 0.0105751679847909,
+          "median": 0.06925624669065211,
+          "up": 27,
+          "down": 19
+        },
+        {
+          "category": "Multi cap",
+          "eligible": 32,
+          "count": 32,
+          "coverage": 100,
+          "change": -0.24845404950035876,
+          "median": -0.11388487780356615,
+          "up": 12,
+          "down": 20
+        },
+        {
+          "category": "Arbitrage",
+          "eligible": 38,
+          "count": 38,
+          "coverage": 100,
+          "change": 0.02887197895911397,
+          "median": 0.027365767155718146,
+          "up": 31,
+          "down": 6
+        },
+        {
+          "category": "Healthcare",
+          "eligible": 18,
+          "count": 18,
+          "coverage": 100,
+          "change": -0.2917095024294676,
+          "median": -0.3603193981397246,
+          "up": 4,
+          "down": 14
+        },
+        {
+          "category": "Banking & financial services",
+          "eligible": 27,
+          "count": 27,
+          "coverage": 100,
+          "change": 0.1956951159034698,
+          "median": 0.2812257564003051,
+          "up": 18,
+          "down": 8
+        },
+        {
+          "category": "Technology",
+          "eligible": 12,
+          "count": 12,
+          "coverage": 100,
+          "change": -2.104842284513688,
+          "median": -2.188843493415238,
+          "up": 0,
+          "down": 12
+        },
+        {
+          "category": "Infrastructure",
+          "eligible": 18,
+          "count": 18,
+          "coverage": 100,
+          "change": -0.29826953390880334,
+          "median": -0.09719133196585683,
+          "up": 6,
+          "down": 12
+        },
+        {
+          "category": "Consumption",
+          "eligible": 25,
+          "count": 25,
+          "coverage": 100,
+          "change": 0.7310620423726613,
+          "median": 0.8218730178767508,
+          "up": 23,
+          "down": 2
+        },
+        {
+          "category": "ELSS",
+          "eligible": 49,
+          "count": 49,
+          "coverage": 100,
+          "change": 0.11669205722821616,
+          "median": 0.2824886388312242,
+          "up": 32,
+          "down": 17
+        },
+        {
+          "category": "Balanced advantage",
+          "eligible": 37,
+          "count": 37,
+          "coverage": 100,
+          "change": 0.1127814691347385,
+          "median": 0.17060687301975186,
+          "up": 27,
+          "down": 9
+        },
+        {
+          "category": "Aggressive hybrid",
+          "eligible": 31,
+          "count": 31,
+          "coverage": 100,
+          "change": 0.19590087268736908,
+          "median": 0.23403998308872964,
+          "up": 25,
+          "down": 6
+        },
+        {
+          "category": "Liquid",
+          "eligible": 53,
+          "count": 53,
+          "coverage": 100,
+          "change": 0.10504552412241386,
+          "median": 0.10822490705908461,
+          "up": 52,
+          "down": 0
+        },
+        {
+          "category": "Corporate bond",
+          "eligible": 22,
+          "count": 22,
+          "coverage": 100,
+          "change": -0.015333978618145309,
+          "median": -0.021092633434188768,
+          "up": 6,
+          "down": 16
+        }
+      ]
+    },
+    "monthly": {
+      "period": "monthly",
+      "start": "2026-10-19",
+      "end": "2026-11-19",
+      "summary": "Healthcare had the highest average return (10.73%) and Arbitrage the lowest (0.48%) among 17 categories with at least 3 funds and 80% coverage. These are equal-weight fund-category averages, not market indices.",
+      "source": "AMFI NAV history and scheme master via Tigzig",
+      "sourceUrl": "https://www.tigzig.com/apis/mf-nav",
+      "fetchedAt": "2026-11-20T11:58:54.986Z",
+      "rows": [
+        {
+          "category": "Large cap",
+          "eligible": 37,
+          "count": 37,
+          "coverage": 100,
+          "change": 10.165255869148558,
+          "median": 10.153814175847021,
+          "up": 37,
+          "down": 0
+        },
+        {
+          "category": "Large & mid cap",
+          "eligible": 38,
+          "count": 37,
+          "coverage": 97.36842105263158,
+          "change": 7.532860481118241,
+          "median": 7.390479571347752,
+          "up": 37,
+          "down": 0
+        },
+        {
+          "category": "Mid cap",
+          "eligible": 33,
+          "count": 33,
+          "coverage": 100,
+          "change": 5.341010060404287,
+          "median": 5.26738896095591,
+          "up": 33,
+          "down": 0
+        },
+        {
+          "category": "Small cap",
+          "eligible": 36,
+          "count": 35,
+          "coverage": 97.22222222222221,
+          "change": 2.6193445509225097,
+          "median": 2.429149797570851,
+          "up": 33,
+          "down": 2
+        },
+        {
+          "category": "Flexi cap",
+          "eligible": 46,
+          "count": 46,
+          "coverage": 100,
+          "change": 7.535630093412001,
+          "median": 7.761824519149307,
+          "up": 46,
+          "down": 0
+        },
+        {
+          "category": "Multi cap",
+          "eligible": 32,
+          "count": 32,
+          "coverage": 100,
+          "change": 6.4418853631098,
+          "median": 6.5161742586826055,
+          "up": 32,
+          "down": 0
+        },
+        {
+          "category": "Arbitrage",
+          "eligible": 38,
+          "count": 38,
+          "coverage": 100,
+          "change": 0.4761381141484717,
+          "median": 0.4776004304742787,
+          "up": 38,
+          "down": 0
+        },
+        {
+          "category": "Healthcare",
+          "eligible": 18,
+          "count": 18,
+          "coverage": 100,
+          "change": 10.731598956421468,
+          "median": 10.747355018723725,
+          "up": 18,
+          "down": 0
+        },
+        {
+          "category": "Banking & financial services",
+          "eligible": 27,
+          "count": 27,
+          "coverage": 100,
+          "change": 9.7339677252497,
+          "median": 10.077396935713146,
+          "up": 27,
+          "down": 0
+        },
+        {
+          "category": "Technology",
+          "eligible": 12,
+          "count": 12,
+          "coverage": 100,
+          "change": 0.5856857420469495,
+          "median": 0.18274208047817098,
+          "up": 7,
+          "down": 5
+        },
+        {
+          "category": "Infrastructure",
+          "eligible": 18,
+          "count": 18,
+          "coverage": 100,
+          "change": 4.757934939206537,
+          "median": 5.0662809956280475,
+          "up": 18,
+          "down": 0
+        },
+        {
+          "category": "Consumption",
+          "eligible": 25,
+          "count": 25,
+          "coverage": 100,
+          "change": 8.63716734523161,
+          "median": 9.003934881567787,
+          "up": 25,
+          "down": 0
+        },
+        {
+          "category": "ELSS",
+          "eligible": 49,
+          "count": 49,
+          "coverage": 100,
+          "change": 6.870480448315099,
+          "median": 7.911362283732304,
+          "up": 49,
+          "down": 0
+        },
+        {
+          "category": "Balanced advantage",
+          "eligible": 37,
+          "count": 37,
+          "coverage": 100,
+          "change": 5.844942763770191,
+          "median": 5.93557727108216,
+          "up": 37,
+          "down": 0
+        },
+        {
+          "category": "Aggressive hybrid",
+          "eligible": 31,
+          "count": 31,
+          "coverage": 100,
+          "change": 6.543977525849901,
+          "median": 6.687088138790509,
+          "up": 31,
+          "down": 0
+        },
+        {
+          "category": "Liquid",
+          "eligible": 53,
+          "count": 53,
+          "coverage": 100,
+          "change": 0.525759609843191,
+          "median": 0.5428770122064996,
+          "up": 52,
+          "down": 0
+        },
+        {
+          "category": "Corporate bond",
+          "eligible": 22,
+          "count": 22,
+          "coverage": 100,
+          "change": 0.5253481728030569,
+          "median": 0.5134943086471888,
+          "up": 22,
+          "down": 0
+        }
+      ]
+    }
+  },
+  "model": {
+    "state": {
+      "inception": "2026-11-18",
+      "reviewMonth": "2026-11",
+      "checkedAt": "2026-11-20T11:58:55.005Z",
+      "reviewWarning": "",
+      "points": [
+        {
+          "date": "2026-11-18",
+          "level": 1000,
+          "nifty": 1000
+        },
+        {
+          "date": "2026-11-19",
+          "level": 1006.1954536148828,
+          "nifty": 1011.316908164545
+        }
+      ],
+      "book": [
+        {
+          "code": "101209",
+          "name": "Taurus Large Cap Fund - Regular Plan - Growth",
+          "category": "Large cap",
+          "weight": 0.0196078431372549,
+          "units": 0.10764077260240944,
+          "rank": 1
+        },
+        {
+          "code": "112098",
+          "name": "Invesco India Large Cap Fund - Regular Plan - Growth",
+          "category": "Large cap",
+          "weight": 0.0196078431372549,
+          "units": 0.2619618321610542,
+          "rank": 2
+        },
+        {
+          "code": "150441",
+          "name": "quant Large Cap Fund - Growth Option - Regular Plan",
+          "category": "Large cap",
+          "weight": 0.0196078431372549,
+          "units": 1.2285385072495443,
+          "rank": 3
+        },
+        {
+          "code": "106144",
+          "name": "Invesco India Large & Mid Cap Fund - Regular Plan - Growth",
+          "category": "Large & mid cap",
+          "weight": 0.0196078431372549,
+          "units": 0.1707702764087694,
+          "rank": 1
+        },
+        {
+          "code": "147701",
+          "name": "Motilal Oswal Large and Midcap Fund - Regular Plan Growth",
+          "category": "Large & mid cap",
+          "weight": 0.0196078431372549,
+          "units": 0.5348463923835307,
+          "rank": 2
+        },
+        {
+          "code": "146771",
+          "name": "HSBC Large & Mid Cap Fund - Regular Growth",
+          "category": "Large & mid cap",
+          "weight": 0.0196078431372549,
+          "units": 0.6482231619729476,
+          "rank": 3
+        },
+        {
+          "code": "151034",
+          "name": "HSBC Midcap Fund - Regular Growth",
+          "category": "Mid cap",
+          "weight": 0.0196078431372549,
+          "units": 0.04234565704592818,
+          "rank": 1
+        },
+        {
+          "code": "105503",
+          "name": "Invesco India Mid Cap Fund - Regular Plan - Growth Option",
+          "category": "Mid cap",
+          "weight": 0.0196078431372549,
+          "units": 0.09731422471216886,
+          "rank": 2
+        },
+        {
+          "code": "150583",
+          "name": "WhiteOak Capital Mid Cap Fund Regular Plan Growth",
+          "category": "Mid cap",
+          "weight": 0.0196078431372549,
+          "units": 0.8970556838345184,
+          "rank": 3
+        },
+        {
+          "code": "147920",
+          "name": "ITI Small Cap Fund - Regular Plan - Growth Option",
+          "category": "Small cap",
+          "weight": 0.0196078431372549,
+          "units": 0.5888577167242246,
+          "rank": 1
+        },
+        {
+          "code": "147944",
+          "name": "BANDHAN SMALL CAP FUND - REGULAR PLAN GROWTH",
+          "category": "Small cap",
+          "weight": 0.0196078431372549,
+          "units": 0.38639189566182364,
+          "rank": 2
+        },
+        {
+          "code": "145139",
+          "name": "Invesco India Small Cap Fund - Regular Plan - Growth",
+          "category": "Small cap",
+          "weight": 0.0196078431372549,
+          "units": 0.39579820624252937,
+          "rank": 3
+        },
+        {
+          "code": "148405",
+          "name": "BANK OF INDIA Flexi Cap Fund Regular Plan -Growth",
+          "category": "Flexi cap",
+          "weight": 0.0196078431372549,
+          "units": 0.4995628824778319,
+          "rank": 1
+        },
+        {
+          "code": "151377",
+          "name": "ITI Flexi Cap Fund- Regular Plan- Growth",
+          "category": "Flexi cap",
+          "weight": 0.0196078431372549,
+          "units": 0.9523687076404257,
+          "rank": 2
+        },
+        {
+          "code": "129048",
+          "name": "Motilal Oswal Flexi Cap Fund Regular Plan-Growth Option",
+          "category": "Flexi cap",
+          "weight": 0.0196078431372549,
+          "units": 0.3082281789783635,
+          "rank": 3
+        },
+        {
+          "code": "149382",
+          "name": "Axis Multicap Fund - Regular Plan - Growth",
+          "category": "Multi cap",
+          "weight": 0.0196078431372549,
+          "units": 0.9730939522210871,
+          "rank": 1
+        },
+        {
+          "code": "152072",
+          "name": "WhiteOak Capital Multi Cap Fund Regular Plan Growth",
+          "category": "Multi cap",
+          "weight": 0.0196078431372549,
+          "units": 1.1963296606012754,
+          "rank": 2
+        },
+        {
+          "code": "151445",
+          "name": "Bank of India Multi Cap Fund Regular Plan - Growth",
+          "category": "Multi cap",
+          "weight": 0.0196078431372549,
+          "units": 0.9588187353180883,
+          "rank": 3
+        },
+        {
+          "code": "105968",
+          "name": "Kotak Arbitrage Fund - Regular Plan - Growth",
+          "category": "Arbitrage",
+          "weight": 0.0196078431372549,
+          "units": 0.4832279316568804,
+          "rank": 1
+        },
+        {
+          "code": "105603",
+          "name": "Invesco India Arbitrage Fund - Regular Plan - Growth Option",
+          "category": "Arbitrage",
+          "weight": 0.0196078431372549,
+          "units": 0.5669415369320175,
+          "rank": 2
+        },
+        {
+          "code": "104075",
+          "name": "UTI Arbitrage Fund - Regular Plan - Growth Option",
+          "category": "Arbitrage",
+          "weight": 0.0196078431372549,
+          "units": 0.5167165556501147,
+          "rank": 3
+        },
+        {
+          "code": "152084",
+          "name": "HDFC Pharma and Healthcare Fund - Growth Option",
+          "category": "Healthcare",
+          "weight": 0.0196078431372549,
+          "units": 0.8689108897126165,
+          "rank": 1
+        },
+        {
+          "code": "102823",
+          "name": "SBI HEALTHCARE OPPORTUNITIES FUND - REGULAR PLAN -GROWTH",
+          "category": "Healthcare",
+          "weight": 0.0196078431372549,
+          "units": 0.03656987757396032,
+          "rank": 2
+        },
+        {
+          "code": "100807",
+          "name": "UTI Healthcare Fund - Regular Plan - Growth Option",
+          "category": "Healthcare",
+          "weight": 0.0196078431372549,
+          "units": 0.05638952085564737,
+          "rank": 3
+        },
+        {
+          "code": "108378",
+          "name": "Invesco India Financial Services Fund - Regular Plan - Growth",
+          "category": "Banking & financial services",
+          "weight": 0.0196078431372549,
+          "units": 0.12957866202256743,
+          "rank": 1
+        },
+        {
+          "code": "133858",
+          "name": "SBI BANKING & FINANCIAL SERVICES FUND - REGULAR PLAN - GROWTH",
+          "category": "Banking & financial services",
+          "weight": 0.0196078431372549,
+          "units": 0.4278264665688057,
+          "rank": 2
+        },
+        {
+          "code": "117549",
+          "name": "Baroda BNP Paribas Banking and Financial Services Fund - Regular - Growth Option",
+          "category": "Banking & financial services",
+          "weight": 0.0196078431372549,
+          "units": 0.38221320402907755,
+          "rank": 3
+        },
+        {
+          "code": "120577",
+          "name": "SBI TECHNOLOGY OPPORTUNITIES FUND - REGULAR PLAN - GROWTH",
+          "category": "Technology",
+          "weight": 0.0196078431372549,
+          "units": 0.09618802897464303,
+          "rank": 1
+        },
+        {
+          "code": "100522",
+          "name": "Franklin India Technology Fund-Growth",
+          "category": "Technology",
+          "weight": 0.0196078431372549,
+          "units": 0.04076930670676867,
+          "rank": 2
+        },
+        {
+          "code": "152058",
+          "name": "HDFC Technology Fund - Growth Option",
+          "category": "Technology",
+          "weight": 0.0196078431372549,
+          "units": 1.615143586264819,
+          "rank": 3
+        },
+        {
+          "code": "107763",
+          "name": "LIC MF Infrastructure Fund-Regular Plan-Growth",
+          "category": "Infrastructure",
+          "weight": 0.0196078431372549,
+          "units": 0.36625255223091024,
+          "rank": 1
+        },
+        {
+          "code": "112359",
+          "name": "BANK OF INDIA Manufacturing & Infrastructure Fund-Growth",
+          "category": "Infrastructure",
+          "weight": 0.0196078431372549,
+          "units": 0.28945738318947306,
+          "rank": 2
+        },
+        {
+          "code": "103390",
+          "name": "CANARA ROBECO INFRASTRUCTURE FUND - REGULAR PLAN - GROWTH OPTION",
+          "category": "Infrastructure",
+          "weight": 0.0196078431372549,
+          "units": 0.12246482504062771,
+          "rank": 3
+        },
+        {
+          "code": "152027",
+          "name": "HSBC Consumption Fund - Regular Growth",
+          "category": "Consumption",
+          "weight": 0.0196078431372549,
+          "units": 1.276427636445328,
+          "rank": 1
+        },
+        {
+          "code": "135804",
+          "name": "Tata India Consumer Fund-Regular Plan-Growth",
+          "category": "Consumption",
+          "weight": 0.0196078431372549,
+          "units": 0.41001035358144866,
+          "rank": 2
+        },
+        {
+          "code": "112152",
+          "name": "CANARA ROBECO CONSUMPTION FUND - REGULAR PLAN - GROWTH OPTION",
+          "category": "Consumption",
+          "weight": 0.0196078431372549,
+          "units": 0.1772861043151438,
+          "rank": 3
+        },
+        {
+          "code": "133385",
+          "name": "Motilal Oswal ELSS Tax Saver Fund - Regular Plan - Growth Option",
+          "category": "ELSS",
+          "weight": 0.0196078431372549,
+          "units": 0.3546895833025197,
+          "rank": 1
+        },
+        {
+          "code": "151076",
+          "name": "HSBC ELSS Tax saver Fund - Regular Growth",
+          "category": "ELSS",
+          "weight": 0.0196078431372549,
+          "units": 0.1374541142085067,
+          "rank": 2
+        },
+        {
+          "code": "107288",
+          "name": "JM ELSS - Tax Saver Fund (Regular) - Growth option",
+          "category": "ELSS",
+          "weight": 0.0196078431372549,
+          "units": 0.37369555493995443,
+          "rank": 3
+        },
+        {
+          "code": "151714",
+          "name": "quant Dynamic Asset Allocation Fund - Growth Option - Regular Plan",
+          "category": "Balanced advantage",
+          "weight": 0.0196078431372549,
+          "units": 1.1983769183018522,
+          "rank": 1
+        },
+        {
+          "code": "131666",
+          "name": "Aditya Birla Sun Life Balanced Advantage Fund - Regular Plan - Growth Option",
+          "category": "Balanced advantage",
+          "weight": 0.0196078431372549,
+          "units": 0.16880030249014208,
+          "rank": 2
+        },
+        {
+          "code": "145387",
+          "name": "Baroda BNP Paribas Balanced Advantage Fund-Regular Plan -Growth Option",
+          "category": "Balanced advantage",
+          "weight": 0.0196078431372549,
+          "units": 0.7449137475545414,
+          "rank": 3
+        },
+        {
+          "code": "140381",
+          "name": "Bandhan Aggressive Hybrid Fund-Regular Plan Growth",
+          "category": "Aggressive hybrid",
+          "weight": 0.0196078431372549,
+          "units": 0.676225794497686,
+          "rank": 1
+        },
+        {
+          "code": "101070",
+          "name": "quant Aggressive Hybrid Fund - Growth Option - Regular Plan",
+          "category": "Aggressive hybrid",
+          "weight": 0.0196078431372549,
+          "units": 0.04194433290747252,
+          "rank": 2
+        },
+        {
+          "code": "151120",
+          "name": "HSBC Aggressive Hybrid Fund - Regular Growth",
+          "category": "Aggressive hybrid",
+          "weight": 0.0196078431372549,
+          "units": 0.32451711204693195,
+          "rank": 3
+        },
+        {
+          "code": "109254",
+          "name": "BANK OF INDIA Liquid Fund- Regular Plan- Growth",
+          "category": "Liquid",
+          "weight": 0.0196078431372549,
+          "units": 0.005987905463279079,
+          "rank": 1
+        },
+        {
+          "code": "112210",
+          "name": "Axis Liquid Fund - Regular Plan - Growth Option",
+          "category": "Liquid",
+          "weight": 0.0196078431372549,
+          "units": 0.00619361896014816,
+          "rank": 2
+        },
+        {
+          "code": "103347",
+          "name": "DSP Liquid Fund - Regular Plan - Growth",
+          "category": "Liquid",
+          "weight": 0.0196078431372549,
+          "units": 0.004832271099392834,
+          "rank": 3
+        },
+        {
+          "code": "150235",
+          "name": "BARODA BNP PARIBAS CORPORATE BOND FUND - Regular Plan - GROWTH OPTION",
+          "category": "Corporate bond",
+          "weight": 0.0196078431372549,
+          "units": 0.6611138393075547,
+          "rank": 1
+        },
+        {
+          "code": "100528",
+          "name": "Franklin India Corporate Debt Fund - Growth",
+          "category": "Corporate bond",
+          "weight": 0.0196078431372549,
+          "units": 0.182897894598321,
+          "rank": 2
+        },
+        {
+          "code": "144644",
+          "name": "DSP Corporate Bond Fund - Regular - Growth",
+          "category": "Corporate bond",
+          "weight": 0.0196078431372549,
+          "units": 1.1339912750711296,
+          "rank": 3
+        }
+      ],
+      "niftyBook": [
+        {
+          "code": "100484",
+          "name": "Franklin India Index Fund- NSE Nifty 50 Index Fund - Growth",
+          "weight": 0.043478260869565216,
+          "units": 0.2123156855686226
+        },
+        {
+          "code": "100822",
+          "name": "UTI Nifty 50 Index Fund - Regular Plan - Growth Option",
+          "weight": 0.043478260869565216,
+          "units": 0.2484382611915412
+        },
+        {
+          "code": "101201",
+          "name": "LIC MF Nifty 50 Index Fund-Regular Plan-Growth",
+          "weight": 0.043478260869565216,
+          "units": 0.31194179964589613
+        },
+        {
+          "code": "101314",
+          "name": "Aditya Birla Sun Life Nifty 50 Index Fund - Growth - Regular Plan",
+          "weight": 0.043478260869565216,
+          "units": 0.16915314173120155
+        },
+        {
+          "code": "101525",
+          "name": "HDFC Nifty 50 Index Fund - Growth Plan",
+          "weight": 0.043478260869565216,
+          "units": 0.1803203296890354
+        },
+        {
+          "code": "112877",
+          "name": "BANDHAN Nifty 50 Index Fund - Regular Plan - Growth",
+          "weight": 0.043478260869565216,
+          "units": 0.7967370748531295
+        },
+        {
+          "code": "112948",
+          "name": "Taurus Nifty 50 Index Fund - Regular Plan - Growth",
+          "weight": 0.043478260869565216,
+          "units": 0.9070348260556639
+        },
+        {
+          "code": "113296",
+          "name": "Nippon India Index Fund - Nifty 50 Plan - Growth Plan - Growth Option",
+          "weight": 0.043478260869565216,
+          "units": 1.008561069784761
+        },
+        {
+          "code": "146379",
+          "name": "DSP Nifty 50 Index Fund - Regular Plan - Growth",
+          "weight": 0.043478260869565216,
+          "units": 1.770006426893336
+        },
+        {
+          "code": "147795",
+          "name": "Motilal Oswal Nifty 50 Index Fund - Regular plan - Growth",
+          "weight": 0.043478260869565216,
+          "units": 2.029314256155874
+        },
+        {
+          "code": "148974",
+          "name": "Kotak Nifty 50 Index Fund - Regular Plan-Growth",
+          "weight": 0.043478260869565216,
+          "units": 2.632334011598064
+        },
+        {
+          "code": "149040",
+          "name": "Navi Nifty 50 Index Fund-Regular Plan-Growth",
+          "weight": 0.043478260869565216,
+          "units": 2.635301657710155
+        },
+        {
+          "code": "149252",
+          "name": "Edelweiss Nifty 50 Index Fund Regular Plan Growth",
+          "weight": 0.043478260869565216,
+          "units": 3.00837652359229
+        },
+        {
+          "code": "149371",
+          "name": "Axis Nifty 50 Index Fund - Regular Plan - Growth Option",
+          "weight": 0.043478260869565216,
+          "units": 2.871652909056188
+        },
+        {
+          "code": "151158",
+          "name": "HSBC NIFTY 50 INDEX FUND - Regular Growth",
+          "weight": 0.043478260869565216,
+          "units": 1.4818059421011
+        },
+        {
+          "code": "152331",
+          "name": "Baroda BNP Paribas Nifty 50 Index Fund - Regular Plan - Growth option",
+          "weight": 0.043478260869565216,
+          "units": 3.6855978629429353
+        },
+        {
+          "code": "152974",
+          "name": "Mirae Asset Nifty 50 Index Fund - Regular Plan - Growth",
+          "weight": 0.043478260869565216,
+          "units": 4.180119685186827
+        },
+        {
+          "code": "153508",
+          "name": "Bajaj Finserv Nifty 50 Index Fund - Regular - Growth",
+          "weight": 0.043478260869565216,
+          "units": 4.259359196446331
+        },
+        {
+          "code": "153530",
+          "name": "ANGEL ONE NIFTY 50 INDEX FUND-REGULAR-GROWTH",
+          "weight": 0.043478260869565216,
+          "units": 4.210765664574618
+        },
+        {
+          "code": "153710",
+          "name": "Groww Nifty 50 Index Fund Regular Growth",
+          "weight": 0.043478260869565216,
+          "units": 4.332704946692565
+        },
+        {
+          "code": "154302",
+          "name": "Choice Nifty 50 Index Fund - Regular Plan Growth",
+          "weight": 0.043478260869565216,
+          "units": 3.9873314505154225
+        },
+        {
+          "code": "154633",
+          "name": "JioBlackRock Nifty 50 Index Fund - Regular Plan - Growth Option",
+          "weight": 0.043478260869565216,
+          "units": 4.186438868573031
+        },
+        {
+          "code": "154816",
+          "name": "quant Nifty 50 Index Fund - Growth Option - Regular Plan",
+          "weight": 0.043478260869565216,
+          "units": 3.9055604244875513
+        }
+      ],
+      "events": [
+        {
+          "month": "2026-11",
+          "effectiveDate": "2026-11-18",
+          "recordedAt": "2026-11-19T08:01:42.947Z",
+          "rankingDate": "2026-10-30",
+          "baselineDate": "2023-10-30",
+          "added": [
+            {
+              "code": "101209",
+              "name": "Taurus Large Cap Fund - Regular Plan - Growth"
+            },
+            {
+              "code": "112098",
+              "name": "Invesco India Large Cap Fund - Regular Plan - Growth"
+            },
+            {
+              "code": "150441",
+              "name": "quant Large Cap Fund - Growth Option - Regular Plan"
+            },
+            {
+              "code": "106144",
+              "name": "Invesco India Large & Mid Cap Fund - Regular Plan - Growth"
+            },
+            {
+              "code": "147701",
+              "name": "Motilal Oswal Large and Midcap Fund - Regular Plan Growth"
+            },
+            {
+              "code": "146771",
+              "name": "HSBC Large & Mid Cap Fund - Regular Growth"
+            },
+            {
+              "code": "151034",
+              "name": "HSBC Midcap Fund - Regular Growth"
+            },
+            {
+              "code": "105503",
+              "name": "Invesco India Mid Cap Fund - Regular Plan - Growth Option"
+            },
+            {
+              "code": "150583",
+              "name": "WhiteOak Capital Mid Cap Fund Regular Plan Growth"
+            },
+            {
+              "code": "147920",
+              "name": "ITI Small Cap Fund - Regular Plan - Growth Option"
+            },
+            {
+              "code": "147944",
+              "name": "BANDHAN SMALL CAP FUND - REGULAR PLAN GROWTH"
+            },
+            {
+              "code": "145139",
+              "name": "Invesco India Small Cap Fund - Regular Plan - Growth"
+            },
+            {
+              "code": "148405",
+              "name": "BANK OF INDIA Flexi Cap Fund Regular Plan -Growth"
+            },
+            {
+              "code": "151377",
+              "name": "ITI Flexi Cap Fund- Regular Plan- Growth"
+            },
+            {
+              "code": "129048",
+              "name": "Motilal Oswal Flexi Cap Fund Regular Plan-Growth Option"
+            },
+            {
+              "code": "149382",
+              "name": "Axis Multicap Fund - Regular Plan - Growth"
+            },
+            {
+              "code": "152072",
+              "name": "WhiteOak Capital Multi Cap Fund Regular Plan Growth"
+            },
+            {
+              "code": "151445",
+              "name": "Bank of India Multi Cap Fund Regular Plan - Growth"
+            },
+            {
+              "code": "105968",
+              "name": "Kotak Arbitrage Fund - Regular Plan - Growth"
+            },
+            {
+              "code": "105603",
+              "name": "Invesco India Arbitrage Fund - Regular Plan - Growth Option"
+            },
+            {
+              "code": "104075",
+              "name": "UTI Arbitrage Fund - Regular Plan - Growth Option"
+            },
+            {
+              "code": "152084",
+              "name": "HDFC Pharma and Healthcare Fund - Growth Option"
+            },
+            {
+              "code": "102823",
+              "name": "SBI HEALTHCARE OPPORTUNITIES FUND - REGULAR PLAN -GROWTH"
+            },
+            {
+              "code": "100807",
+              "name": "UTI Healthcare Fund - Regular Plan - Growth Option"
+            },
+            {
+              "code": "108378",
+              "name": "Invesco India Financial Services Fund - Regular Plan - Growth"
+            },
+            {
+              "code": "133858",
+              "name": "SBI BANKING & FINANCIAL SERVICES FUND - REGULAR PLAN - GROWTH"
+            },
+            {
+              "code": "117549",
+              "name": "Baroda BNP Paribas Banking and Financial Services Fund - Regular - Growth Option"
+            },
+            {
+              "code": "120577",
+              "name": "SBI TECHNOLOGY OPPORTUNITIES FUND - REGULAR PLAN - GROWTH"
+            },
+            {
+              "code": "100522",
+              "name": "Franklin India Technology Fund-Growth"
+            },
+            {
+              "code": "152058",
+              "name": "HDFC Technology Fund - Growth Option"
+            },
+            {
+              "code": "107763",
+              "name": "LIC MF Infrastructure Fund-Regular Plan-Growth"
+            },
+            {
+              "code": "112359",
+              "name": "BANK OF INDIA Manufacturing & Infrastructure Fund-Growth"
+            },
+            {
+              "code": "103390",
+              "name": "CANARA ROBECO INFRASTRUCTURE FUND - REGULAR PLAN - GROWTH OPTION"
+            },
+            {
+              "code": "152027",
+              "name": "HSBC Consumption Fund - Regular Growth"
+            },
+            {
+              "code": "135804",
+              "name": "Tata India Consumer Fund-Regular Plan-Growth"
+            },
+            {
+              "code": "112152",
+              "name": "CANARA ROBECO CONSUMPTION FUND - REGULAR PLAN - GROWTH OPTION"
+            },
+            {
+              "code": "133385",
+              "name": "Motilal Oswal ELSS Tax Saver Fund - Regular Plan - Growth Option"
+            },
+            {
+              "code": "151076",
+              "name": "HSBC ELSS Tax saver Fund - Regular Growth"
+            },
+            {
+              "code": "107288",
+              "name": "JM ELSS - Tax Saver Fund (Regular) - Growth option"
+            },
+            {
+              "code": "151714",
+              "name": "quant Dynamic Asset Allocation Fund - Growth Option - Regular Plan"
+            },
+            {
+              "code": "131666",
+              "name": "Aditya Birla Sun Life Balanced Advantage Fund - Regular Plan - Growth Option"
+            },
+            {
+              "code": "145387",
+              "name": "Baroda BNP Paribas Balanced Advantage Fund-Regular Plan -Growth Option"
+            },
+            {
+              "code": "140381",
+              "name": "Bandhan Aggressive Hybrid Fund-Regular Plan Growth"
+            },
+            {
+              "code": "101070",
+              "name": "quant Aggressive Hybrid Fund - Growth Option - Regular Plan"
+            },
+            {
+              "code": "151120",
+              "name": "HSBC Aggressive Hybrid Fund - Regular Growth"
+            },
+            {
+              "code": "109254",
+              "name": "BANK OF INDIA Liquid Fund- Regular Plan- Growth"
+            },
+            {
+              "code": "112210",
+              "name": "Axis Liquid Fund - Regular Plan - Growth Option"
+            },
+            {
+              "code": "103347",
+              "name": "DSP Liquid Fund - Regular Plan - Growth"
+            },
+            {
+              "code": "150235",
+              "name": "BARODA BNP PARIBAS CORPORATE BOND FUND - Regular Plan - GROWTH OPTION"
+            },
+            {
+              "code": "100528",
+              "name": "Franklin India Corporate Debt Fund - Growth"
+            },
+            {
+              "code": "144644",
+              "name": "DSP Corporate Bond Fund - Regular - Growth"
+            }
+          ],
+          "removed": [],
+          "level": 1000,
+          "nifty": 1000,
+          "previousReview": null
+        }
+      ]
+    },
+    "brief": "From 2026-11-18 to 2026-11-19, the MFD category-leader model moved +0.62%, versus +1.13% for the Nifty 50 fund basket, a difference of -0.51 percentage points. This model mixes equity, hybrid, arbitrage and debt categories; the baskets have different risk exposures. Latest recorded interval may span multiple days.",
+    "rules": "Top 3 eligible Regular Growth schemes per category by trailing 3-year NAV CAGR at the previous month-end. Equal weight across 17 categories, then equal weight within each category. Overseas, defunct, unclaimed and named closed-series schemes are excluded. Only schemes with paired positive NAVs are ranked; ties use AMFI code. Nifty comparison: all eligible plain Nifty 50 Regular Growth index funds, equally weighted. Reviews run monthly on the next successful scheduled GitHub refresh; implementation uses available NAVs after the ranking date. No real transactions. Category assignments use the provider’s current scheme master rather than historical point-in-time classifications. Unadjusted NAVs can be affected by mergers or unit splits; rankings are research signals, not recommendations. Fees are reflected in NAV; investor taxes, exit loads and transaction costs are excluded.",
+    "source": "AMFI NAV history and scheme master via Tigzig; exact-date constituent matching",
+    "error": "",
+    "automation": "Scheduled GitHub refresh; monthly reviews use previous month-end rankings and the next complete new NAV observation. Missed monthly selections are not backfilled."
+  },
+  "automation": {
+    "checkedAt": "2026-11-20T11:58:42.751Z",
+    "status": {
+      "market": "ok",
+      "weekly": "ok",
+      "monthly": "ok",
+      "index": "ok"
+    },
+    "warnings": [],
+    "schedule": "07:10, 16:40 and 23:10 IST daily (GitHub scheduling can be delayed)",
+    "providerNotes": "Public provider access may be delayed, rate-limited or unavailable. Quote and NAV dates are shown independently."
+  }
+}

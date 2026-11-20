@@ -1,0 +1,19 @@
+{
+  "id": "./",
+  "name": "Investor Corner \u00b7 One Stop For All",
+  "short_name": "Investor Corner",
+  "description": "Market perspective, investment learning and goal planning.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#fbfaf6",
+  "theme_color": "#102b43",
+  "icons": [
+    {
+      "src": "assets/app-icon.png",
+      "sizes": "1024x1024",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

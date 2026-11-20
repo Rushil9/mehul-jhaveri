@@ -1,0 +1,6 @@
+const CACHE='investor-corner-v9';
+const FILES=['./','index.html','styles.css','app.js','calculators.js','dreams.js','nav-model.js','data/market-data.js','data/market.json','assets/logo.png','assets/app-icon.png','assets/banner-sip.svg','assets/banner-stepup.svg','assets/banner-perspective.svg','manifest.webmanifest'];
+self.addEventListener('install',e=>{e.waitUntil(caches.open(CACHE).then(c=>c.addAll(FILES)));self.skipWaiting();});
+self.addEventListener('activate',e=>{e.waitUntil(caches.keys().then(keys=>Promise.all(keys.filter(k=>k.startsWith('investor-corner-')&&k!==CACHE).map(k=>caches.delete(k)))).then(()=>self.clients.claim()));});
+// Never intercept third-party NAV requests or form data. Published data is network-first.
+self.addEventListener('fetch',e=>{if(e.request.method!=='GET'||new URL(e.request.url).origin!==self.location.origin)return;const url=new URL(e.request.url);const key=new Request(url.origin+url.pathname);e.respondWith(fetch(e.request).then(r=>{if(r.ok){const copy=r.clone();caches.open(CACHE).then(c=>c.put(key,copy));}return r;}).catch(async()=>{const hit=await caches.match(key);if(hit)return hit;if(e.request.mode==='navigate')return caches.match('./');return Response.error();}));});
