@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "publishedAt": "2026-11-20T23:20:59.640Z",
+  "publishedAt": "2026-11-21T08:44:58.538Z",
   "appVersion": "1.15.0",
   "market": {
     "data": [
@@ -98,186 +98,186 @@
         "low": 17651.15
       }
     ],
-    "fetchedAt": "2026-11-20T23:20:59.640Z"
+    "fetchedAt": "2026-11-21T08:44:58.538Z"
   },
   "snapshots": {
     "weekly": {
       "period": "weekly",
       "start": "2026-11-13",
       "end": "2026-11-20",
-      "summary": "Banking & financial services had the highest average return (2.26%) and Technology the lowest (-1.27%) among 17 categories with at least 3 funds and 80% coverage. These are equal-weight fund-category averages, not market indices.",
+      "summary": "Banking & financial services had the highest average return (2.29%) and Technology the lowest (-1.49%) among 17 categories with at least 3 funds and 80% coverage. These are equal-weight fund-category averages, not market indices.",
       "source": "AMFI NAV history and scheme master via Tigzig",
       "sourceUrl": "https://www.tigzig.com/apis/mf-nav",
-      "fetchedAt": "2026-11-20T23:21:13.636Z",
+      "fetchedAt": "2026-11-21T08:45:10.846Z",
       "rows": [
         {
           "category": "Large cap",
-          "eligible": 36,
-          "count": 36,
-          "coverage": 100,
-          "change": 2.081033432802757,
-          "median": 2.2107435593427094,
-          "up": 36,
-          "down": 0
-        },
-        {
-          "category": "Large & mid cap",
-          "eligible": 35,
-          "count": 35,
-          "coverage": 100,
-          "change": 0.8010052181839677,
-          "median": 0.9003595527754538,
-          "up": 32,
-          "down": 2
-        },
-        {
-          "category": "Mid cap",
-          "eligible": 32,
-          "count": 32,
-          "coverage": 100,
-          "change": -0.10413979860508865,
-          "median": 0.10845858075453352,
-          "up": 17,
-          "down": 15
-        },
-        {
-          "category": "Small cap",
-          "eligible": 35,
-          "count": 35,
-          "coverage": 100,
-          "change": -0.722288736131191,
-          "median": -0.8019603475161508,
-          "up": 3,
-          "down": 32
-        },
-        {
-          "category": "Flexi cap",
-          "eligible": 44,
-          "count": 44,
-          "coverage": 100,
-          "change": 1.058201078898688,
-          "median": 1.0572922581614574,
-          "up": 39,
-          "down": 4
-        },
-        {
-          "category": "Multi cap",
-          "eligible": 31,
-          "count": 31,
-          "coverage": 100,
-          "change": 0.5761049601493577,
-          "median": 0.7597801487229106,
-          "up": 23,
-          "down": 8
-        },
-        {
-          "category": "Arbitrage",
           "eligible": 37,
           "count": 37,
           "coverage": 100,
-          "change": 0.22394368433685416,
-          "median": 0.21708118836445411,
+          "change": 2.0971750600099397,
+          "median": 2.2113929869009397,
           "up": 37,
           "down": 0
         },
         {
-          "category": "Healthcare",
-          "eligible": 16,
-          "count": 16,
+          "category": "Large & mid cap",
+          "eligible": 38,
+          "count": 38,
           "coverage": 100,
-          "change": 0.6885028307348752,
+          "change": 0.8222375522055251,
+          "median": 0.911066543241168,
+          "up": 35,
+          "down": 2
+        },
+        {
+          "category": "Mid cap",
+          "eligible": 33,
+          "count": 33,
+          "coverage": 100,
+          "change": -0.06410985402976048,
+          "median": 0.11952786493349965,
+          "up": 18,
+          "down": 15
+        },
+        {
+          "category": "Small cap",
+          "eligible": 36,
+          "count": 36,
+          "coverage": 100,
+          "change": -0.7088523167062536,
+          "median": -0.794553167347295,
+          "up": 3,
+          "down": 33
+        },
+        {
+          "category": "Flexi cap",
+          "eligible": 46,
+          "count": 46,
+          "coverage": 100,
+          "change": 1.0979643611847074,
+          "median": 1.1532420483481354,
+          "up": 41,
+          "down": 4
+        },
+        {
+          "category": "Multi cap",
+          "eligible": 32,
+          "count": 32,
+          "coverage": 100,
+          "change": 0.600907635295949,
+          "median": 0.769428193448829,
+          "up": 24,
+          "down": 8
+        },
+        {
+          "category": "Arbitrage",
+          "eligible": 38,
+          "count": 38,
+          "coverage": 100,
+          "change": 0.22384493565901806,
+          "median": 0.2178617742707445,
+          "up": 38,
+          "down": 0
+        },
+        {
+          "category": "Healthcare",
+          "eligible": 18,
+          "count": 18,
+          "coverage": 100,
+          "change": 0.6312947076439042,
           "median": 0.6484157449646477,
-          "up": 13,
-          "down": 3
+          "up": 14,
+          "down": 4
         },
         {
           "category": "Banking & financial services",
-          "eligible": 26,
-          "count": 26,
+          "eligible": 27,
+          "count": 27,
           "coverage": 100,
-          "change": 2.261955962944607,
-          "median": 2.4227880194294116,
-          "up": 26,
+          "change": 2.2880624750500327,
+          "median": 2.426309579020902,
+          "up": 27,
           "down": 0
         },
         {
           "category": "Technology",
-          "eligible": 5,
-          "count": 5,
+          "eligible": 10,
+          "count": 10,
           "coverage": 100,
-          "change": -1.2653402960164817,
-          "median": -1.0752688172043112,
+          "change": -1.4913210586021777,
+          "median": -1.4071438776450118,
           "up": 0,
-          "down": 5
+          "down": 10
         },
         {
           "category": "Infrastructure",
-          "eligible": 17,
-          "count": 17,
+          "eligible": 18,
+          "count": 18,
           "coverage": 100,
-          "change": -0.07933183050083169,
-          "median": 0.11434171839268537,
-          "up": 10,
+          "change": -0.03841561559537254,
+          "median": 0.15909304180369288,
+          "up": 11,
           "down": 7
         },
         {
           "category": "Consumption",
-          "eligible": 24,
-          "count": 24,
+          "eligible": 25,
+          "count": 25,
           "coverage": 100,
-          "change": 1.3619930578746644,
-          "median": 1.5440099648189265,
-          "up": 22,
+          "change": 1.395257869506744,
+          "median": 1.560975609756099,
+          "up": 23,
           "down": 2
         },
         {
           "category": "ELSS",
-          "eligible": 48,
-          "count": 48,
+          "eligible": 49,
+          "count": 49,
           "coverage": 100,
-          "change": 1.1062631387209274,
-          "median": 1.2987936553468082,
-          "up": 42,
+          "change": 1.1433903588058267,
+          "median": 1.3266162888329047,
+          "up": 43,
           "down": 6
         },
         {
           "category": "Balanced advantage",
-          "eligible": 36,
-          "count": 36,
+          "eligible": 37,
+          "count": 37,
           "coverage": 100,
-          "change": 1.0261764273754959,
-          "median": 1.0829293442843557,
-          "up": 35,
+          "change": 1.040557503297094,
+          "median": 1.0854265156995613,
+          "up": 36,
           "down": 1
         },
         {
           "category": "Aggressive hybrid",
-          "eligible": 30,
-          "count": 30,
+          "eligible": 31,
+          "count": 31,
           "coverage": 100,
-          "change": 1.0818127323045954,
-          "median": 1.1420190579978118,
-          "up": 28,
+          "change": 1.1092853408143108,
+          "median": 1.151553729529553,
+          "up": 29,
           "down": 2
         },
         {
           "category": "Liquid",
-          "eligible": 50,
-          "count": 50,
+          "eligible": 53,
+          "count": 53,
           "coverage": 100,
-          "change": 0.10511766693446845,
-          "median": 0.10846313567504096,
-          "up": 49,
+          "change": 0.10499101279168739,
+          "median": 0.10841328872930323,
+          "up": 52,
           "down": 0
         },
         {
           "category": "Corporate bond",
-          "eligible": 21,
-          "count": 21,
+          "eligible": 22,
+          "count": 22,
           "coverage": 100,
-          "change": 0.14703159583140285,
-          "median": 0.14878355265453003,
-          "up": 21,
+          "change": 0.14783067998382712,
+          "median": 0.15446959176549369,
+          "up": 22,
           "down": 0
         }
       ]
@@ -286,179 +286,179 @@
       "period": "monthly",
       "start": "2026-10-19",
       "end": "2026-11-20",
-      "summary": "Healthcare had the highest average return (11.67%) and Liquid the lowest (0.54%) among 17 categories with at least 3 funds and 80% coverage. These are equal-weight fund-category averages, not market indices.",
+      "summary": "Healthcare had the highest average return (11.55%) and Liquid the lowest (0.54%) among 17 categories with at least 3 funds and 80% coverage. These are equal-weight fund-category averages, not market indices.",
       "source": "AMFI NAV history and scheme master via Tigzig",
       "sourceUrl": "https://www.tigzig.com/apis/mf-nav",
-      "fetchedAt": "2026-11-20T23:21:13.657Z",
+      "fetchedAt": "2026-11-21T08:45:10.871Z",
       "rows": [
         {
           "category": "Large cap",
-          "eligible": 36,
-          "count": 36,
-          "coverage": 100,
-          "change": 11.221305683836528,
-          "median": 11.256139902142314,
-          "up": 36,
-          "down": 0
-        },
-        {
-          "category": "Large & mid cap",
-          "eligible": 35,
-          "count": 34,
-          "coverage": 97.14285714285714,
-          "change": 8.339211805950661,
-          "median": 8.432609938057723,
-          "up": 34,
-          "down": 0
-        },
-        {
-          "category": "Mid cap",
-          "eligible": 32,
-          "count": 32,
-          "coverage": 100,
-          "change": 5.803046935307691,
-          "median": 5.739778720924871,
-          "up": 32,
-          "down": 0
-        },
-        {
-          "category": "Small cap",
-          "eligible": 35,
-          "count": 34,
-          "coverage": 97.14285714285714,
-          "change": 2.5359019373720866,
-          "median": 2.4192165255097375,
-          "up": 31,
-          "down": 3
-        },
-        {
-          "category": "Flexi cap",
-          "eligible": 44,
-          "count": 44,
-          "coverage": 100,
-          "change": 8.210216062479242,
-          "median": 8.639950800217388,
-          "up": 44,
-          "down": 0
-        },
-        {
-          "category": "Multi cap",
-          "eligible": 31,
-          "count": 31,
-          "coverage": 100,
-          "change": 6.976572033743516,
-          "median": 7.09858147574205,
-          "up": 31,
-          "down": 0
-        },
-        {
-          "category": "Arbitrage",
           "eligible": 37,
           "count": 37,
           "coverage": 100,
-          "change": 0.6151132848976757,
-          "median": 0.6126993457302943,
+          "change": 11.243044534851652,
+          "median": 11.256927088485668,
           "up": 37,
           "down": 0
         },
         {
-          "category": "Healthcare",
-          "eligible": 16,
-          "count": 16,
+          "category": "Large & mid cap",
+          "eligible": 38,
+          "count": 37,
+          "coverage": 97.36842105263158,
+          "change": 8.2704075695005,
+          "median": 8.201533139277938,
+          "up": 37,
+          "down": 0
+        },
+        {
+          "category": "Mid cap",
+          "eligible": 33,
+          "count": 33,
           "coverage": 100,
-          "change": 11.66898098016297,
+          "change": 5.8011754708834475,
+          "median": 5.7412886093076265,
+          "up": 33,
+          "down": 0
+        },
+        {
+          "category": "Small cap",
+          "eligible": 36,
+          "count": 35,
+          "coverage": 97.22222222222221,
+          "change": 2.507683811716748,
+          "median": 2.2971263329116143,
+          "up": 32,
+          "down": 3
+        },
+        {
+          "category": "Flexi cap",
+          "eligible": 46,
+          "count": 46,
+          "coverage": 100,
+          "change": 8.240334658394973,
+          "median": 8.639950800217388,
+          "up": 46,
+          "down": 0
+        },
+        {
+          "category": "Multi cap",
+          "eligible": 32,
+          "count": 32,
+          "coverage": 100,
+          "change": 7.0074557517858045,
+          "median": 7.099835966252021,
+          "up": 32,
+          "down": 0
+        },
+        {
+          "category": "Arbitrage",
+          "eligible": 38,
+          "count": 38,
+          "coverage": 100,
+          "change": 0.615824825147257,
+          "median": 0.6128646047102615,
+          "up": 38,
+          "down": 0
+        },
+        {
+          "category": "Healthcare",
+          "eligible": 18,
+          "count": 18,
+          "coverage": 100,
+          "change": 11.54534537879934,
           "median": 11.386035499045555,
-          "up": 16,
+          "up": 18,
           "down": 0
         },
         {
           "category": "Banking & financial services",
-          "eligible": 26,
-          "count": 26,
+          "eligible": 27,
+          "count": 27,
           "coverage": 100,
-          "change": 11.373150043063545,
-          "median": 11.741235049851795,
-          "up": 26,
+          "change": 11.386939177408138,
+          "median": 11.74545667036757,
+          "up": 27,
           "down": 0
         },
         {
           "category": "Technology",
-          "eligible": 5,
-          "count": 5,
+          "eligible": 10,
+          "count": 10,
           "coverage": 100,
-          "change": 2.0907768728371456,
-          "median": 3.370786516853941,
-          "up": 4,
-          "down": 1
+          "change": 1.3017808000112787,
+          "median": 0.745607026023043,
+          "up": 8,
+          "down": 2
         },
         {
           "category": "Infrastructure",
-          "eligible": 17,
-          "count": 17,
+          "eligible": 18,
+          "count": 18,
           "coverage": 100,
-          "change": 4.7706414543876345,
-          "median": 5.492466342576052,
-          "up": 17,
+          "change": 4.84640426009703,
+          "median": 5.493881001842982,
+          "up": 18,
           "down": 0
         },
         {
           "category": "Consumption",
-          "eligible": 24,
-          "count": 24,
+          "eligible": 25,
+          "count": 25,
           "coverage": 100,
-          "change": 8.954978138091322,
-          "median": 9.571109609060603,
-          "up": 24,
+          "change": 8.981934478966867,
+          "median": 9.62888665997994,
+          "up": 25,
           "down": 0
         },
         {
           "category": "ELSS",
-          "eligible": 48,
-          "count": 48,
+          "eligible": 49,
+          "count": 49,
           "coverage": 100,
-          "change": 7.4556483363521515,
-          "median": 8.897970638635543,
-          "up": 48,
-          "down": 0
-        },
-        {
-          "category": "Balanced advantage",
-          "eligible": 36,
-          "count": 36,
-          "coverage": 100,
-          "change": 6.440100968780842,
-          "median": 6.696464890295351,
-          "up": 36,
-          "down": 0
-        },
-        {
-          "category": "Aggressive hybrid",
-          "eligible": 30,
-          "count": 30,
-          "coverage": 100,
-          "change": 7.115475540616818,
-          "median": 7.307941270475049,
-          "up": 30,
-          "down": 0
-        },
-        {
-          "category": "Liquid",
-          "eligible": 50,
-          "count": 50,
-          "coverage": 100,
-          "change": 0.5387567839380305,
-          "median": 0.5542005861815857,
+          "change": 7.5375295191548455,
+          "median": 8.932980599647266,
           "up": 49,
           "down": 0
         },
         {
-          "category": "Corporate bond",
-          "eligible": 21,
-          "count": 21,
+          "category": "Balanced advantage",
+          "eligible": 37,
+          "count": 37,
           "coverage": 100,
-          "change": 0.6090482836300479,
-          "median": 0.5954282566785984,
-          "up": 21,
+          "change": 6.471212396490689,
+          "median": 6.733501622791205,
+          "up": 37,
+          "down": 0
+        },
+        {
+          "category": "Aggressive hybrid",
+          "eligible": 31,
+          "count": 31,
+          "coverage": 100,
+          "change": 7.16969964517748,
+          "median": 7.340559513723521,
+          "up": 31,
+          "down": 0
+        },
+        {
+          "category": "Liquid",
+          "eligible": 53,
+          "count": 53,
+          "coverage": 100,
+          "change": 0.5378407221433921,
+          "median": 0.554314129259259,
+          "up": 52,
+          "down": 0
+        },
+        {
+          "category": "Corporate bond",
+          "eligible": 22,
+          "count": 22,
+          "coverage": 100,
+          "change": 0.6170792120335827,
+          "median": 0.6080913959822798,
+          "up": 22,
           "down": 0
         }
       ]
@@ -468,7 +468,7 @@
     "state": {
       "inception": "2026-11-18",
       "reviewMonth": "2026-11",
-      "checkedAt": "2026-11-20T23:21:15.666Z",
+      "checkedAt": "2026-11-21T08:45:10.892Z",
       "reviewWarning": "",
       "points": [
         {
@@ -480,6 +480,11 @@
           "date": "2026-11-19",
           "level": 1006.1954536148828,
           "nifty": 1011.316908164545
+        },
+        {
+          "date": "2026-11-20",
+          "level": 1009.9298825593977,
+          "nifty": 1022.6325130697804
         }
       ],
       "book": [
@@ -1252,14 +1257,14 @@
         }
       ]
     },
-    "brief": "From 2026-11-18 to 2026-11-19, the MFD category-leader model moved +0.62%, versus +1.13% for the Nifty 50 fund basket, a difference of -0.51 percentage points. This model mixes equity, hybrid, arbitrage and debt categories; the baskets have different risk exposures. Latest recorded interval may span multiple days.",
+    "brief": "From 2026-11-19 to 2026-11-20, the MFD category-leader model moved +0.37%, versus +1.12% for the Nifty 50 fund basket, a difference of -0.75 percentage points. This model mixes equity, hybrid, arbitrage and debt categories; the baskets have different risk exposures. Latest recorded interval may span multiple days.",
     "rules": "Top 3 eligible Regular Growth schemes per category by trailing 3-year NAV CAGR at the previous month-end. Equal weight across 17 categories, then equal weight within each category. Overseas, defunct, unclaimed and named closed-series schemes are excluded. Only schemes with paired positive NAVs are ranked; ties use AMFI code. Nifty comparison: all eligible plain Nifty 50 Regular Growth index funds, equally weighted. Reviews run monthly on the next successful scheduled GitHub refresh; implementation uses available NAVs after the ranking date. No real transactions. Category assignments use the provider’s current scheme master rather than historical point-in-time classifications. Unadjusted NAVs can be affected by mergers or unit splits; rankings are research signals, not recommendations. Fees are reflected in NAV; investor taxes, exit loads and transaction costs are excluded.",
     "source": "AMFI NAV history and scheme master via Tigzig; exact-date constituent matching",
     "error": "",
     "automation": "Scheduled GitHub refresh; monthly reviews use previous month-end rankings and the next complete new NAV observation. Missed monthly selections are not backfilled."
   },
   "automation": {
-    "checkedAt": "2026-11-20T23:20:59.640Z",
+    "checkedAt": "2026-11-21T08:44:58.538Z",
     "status": {
       "market": "ok",
       "weekly": "ok",
