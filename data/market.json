@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "publishedAt": "2026-11-21T08:44:58.538Z",
+  "publishedAt": "2026-11-21T17:56:17.584Z",
   "appVersion": "1.15.0",
   "market": {
     "data": [
@@ -98,17 +98,17 @@
         "low": 17651.15
       }
     ],
-    "fetchedAt": "2026-11-21T08:44:58.538Z"
+    "fetchedAt": "2026-11-21T17:56:17.584Z"
   },
   "snapshots": {
     "weekly": {
       "period": "weekly",
       "start": "2026-11-13",
       "end": "2026-11-20",
-      "summary": "Banking & financial services had the highest average return (2.29%) and Technology the lowest (-1.49%) among 17 categories with at least 3 funds and 80% coverage. These are equal-weight fund-category averages, not market indices.",
+      "summary": "Banking & financial services had the highest average return (2.29%) and Technology the lowest (-1.65%) among 17 categories with at least 3 funds and 80% coverage. These are equal-weight fund-category averages, not market indices.",
       "source": "AMFI NAV history and scheme master via Tigzig",
       "sourceUrl": "https://www.tigzig.com/apis/mf-nav",
-      "fetchedAt": "2026-11-21T08:45:10.846Z",
+      "fetchedAt": "2026-11-21T17:56:32.149Z",
       "rows": [
         {
           "category": "Large cap",
@@ -202,13 +202,13 @@
         },
         {
           "category": "Technology",
-          "eligible": 10,
-          "count": 10,
+          "eligible": 12,
+          "count": 12,
           "coverage": 100,
-          "change": -1.4913210586021777,
-          "median": -1.4071438776450118,
+          "change": -1.6542550331312151,
+          "median": -1.4446770109647566,
           "up": 0,
-          "down": 10
+          "down": 12
         },
         {
           "category": "Infrastructure",
@@ -289,7 +289,7 @@
       "summary": "Healthcare had the highest average return (11.55%) and Liquid the lowest (0.54%) among 17 categories with at least 3 funds and 80% coverage. These are equal-weight fund-category averages, not market indices.",
       "source": "AMFI NAV history and scheme master via Tigzig",
       "sourceUrl": "https://www.tigzig.com/apis/mf-nav",
-      "fetchedAt": "2026-11-21T08:45:10.871Z",
+      "fetchedAt": "2026-11-21T17:56:32.171Z",
       "rows": [
         {
           "category": "Large cap",
@@ -383,13 +383,13 @@
         },
         {
           "category": "Technology",
-          "eligible": 10,
-          "count": 10,
+          "eligible": 12,
+          "count": 12,
           "coverage": 100,
-          "change": 1.3017808000112787,
+          "change": 1.1263818523473346,
           "median": 0.745607026023043,
-          "up": 8,
-          "down": 2
+          "up": 9,
+          "down": 3
         },
         {
           "category": "Infrastructure",
@@ -468,7 +468,7 @@
     "state": {
       "inception": "2026-11-18",
       "reviewMonth": "2026-11",
-      "checkedAt": "2026-11-21T08:45:10.892Z",
+      "checkedAt": "2026-11-21T17:56:32.186Z",
       "reviewWarning": "",
       "points": [
         {
@@ -1264,7 +1264,7 @@
     "automation": "Scheduled GitHub refresh; monthly reviews use previous month-end rankings and the next complete new NAV observation. Missed monthly selections are not backfilled."
   },
   "automation": {
-    "checkedAt": "2026-11-21T08:44:58.538Z",
+    "checkedAt": "2026-11-21T17:56:17.584Z",
     "status": {
       "market": "ok",
       "weekly": "ok",
