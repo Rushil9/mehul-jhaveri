@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "publishedAt": "2026-11-22T18:27:00.583Z",
+  "publishedAt": "2026-11-22T22:47:27.088Z",
   "appVersion": "1.15.0",
   "market": {
     "data": [
@@ -98,7 +98,7 @@
         "low": 17651.15
       }
     ],
-    "fetchedAt": "2026-11-22T18:27:00.583Z"
+    "fetchedAt": "2026-11-22T22:47:27.088Z"
   },
   "snapshots": {
     "weekly": {
@@ -108,7 +108,7 @@
       "summary": "Banking & financial services had the highest average return (2.29%) and Technology the lowest (-1.65%) among 17 categories with at least 3 funds and 80% coverage. These are equal-weight fund-category averages, not market indices.",
       "source": "AMFI NAV history and scheme master via Tigzig",
       "sourceUrl": "https://www.tigzig.com/apis/mf-nav",
-      "fetchedAt": "2026-11-22T18:27:20.663Z",
+      "fetchedAt": "2026-11-22T22:47:42.321Z",
       "rows": [
         {
           "category": "Large cap",
@@ -289,7 +289,7 @@
       "summary": "Healthcare had the highest average return (11.55%) and Liquid the lowest (0.54%) among 17 categories with at least 3 funds and 80% coverage. These are equal-weight fund-category averages, not market indices.",
       "source": "AMFI NAV history and scheme master via Tigzig",
       "sourceUrl": "https://www.tigzig.com/apis/mf-nav",
-      "fetchedAt": "2026-11-22T18:27:20.685Z",
+      "fetchedAt": "2026-11-22T22:47:42.344Z",
       "rows": [
         {
           "category": "Large cap",
@@ -468,7 +468,7 @@
     "state": {
       "inception": "2026-11-18",
       "reviewMonth": "2026-11",
-      "checkedAt": "2026-11-22T18:27:20.703Z",
+      "checkedAt": "2026-11-22T22:47:42.362Z",
       "reviewWarning": "",
       "points": [
         {
@@ -1264,7 +1264,7 @@
     "automation": "Scheduled GitHub refresh; monthly reviews use previous month-end rankings and the next complete new NAV observation. Missed monthly selections are not backfilled."
   },
   "automation": {
-    "checkedAt": "2026-11-22T18:27:00.583Z",
+    "checkedAt": "2026-11-22T22:47:27.088Z",
     "status": {
       "market": "ok",
       "weekly": "ok",
