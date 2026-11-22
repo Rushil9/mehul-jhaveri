@@ -1,6 +1,6 @@
 window.MFD_PUBLIC_DATA = {
   "schema": 1,
-  "publishedAt": "2026-11-21T22:22:35.551Z",
+  "publishedAt": "2026-11-22T08:48:45.671Z",
   "appVersion": "1.15.0",
   "market": {
     "data": [
@@ -98,7 +98,7 @@ window.MFD_PUBLIC_DATA = {
         "low": 17651.15
       }
     ],
-    "fetchedAt": "2026-11-21T22:22:35.551Z"
+    "fetchedAt": "2026-11-22T08:48:45.671Z"
   },
   "snapshots": {
     "weekly": {
@@ -108,7 +108,7 @@ window.MFD_PUBLIC_DATA = {
       "summary": "Banking & financial services had the highest average return (2.29%) and Technology the lowest (-1.65%) among 17 categories with at least 3 funds and 80% coverage. These are equal-weight fund-category averages, not market indices.",
       "source": "AMFI NAV history and scheme master via Tigzig",
       "sourceUrl": "https://www.tigzig.com/apis/mf-nav",
-      "fetchedAt": "2026-11-21T22:22:51.947Z",
+      "fetchedAt": "2026-11-22T08:49:01.074Z",
       "rows": [
         {
           "category": "Large cap",
@@ -289,7 +289,7 @@ window.MFD_PUBLIC_DATA = {
       "summary": "Healthcare had the highest average return (11.55%) and Liquid the lowest (0.54%) among 17 categories with at least 3 funds and 80% coverage. These are equal-weight fund-category averages, not market indices.",
       "source": "AMFI NAV history and scheme master via Tigzig",
       "sourceUrl": "https://www.tigzig.com/apis/mf-nav",
-      "fetchedAt": "2026-11-21T22:22:51.970Z",
+      "fetchedAt": "2026-11-22T08:49:01.104Z",
       "rows": [
         {
           "category": "Large cap",
@@ -468,7 +468,7 @@ window.MFD_PUBLIC_DATA = {
     "state": {
       "inception": "2026-11-18",
       "reviewMonth": "2026-11",
-      "checkedAt": "2026-11-21T22:22:51.988Z",
+      "checkedAt": "2026-11-22T08:49:01.126Z",
       "reviewWarning": "",
       "points": [
         {
@@ -1264,7 +1264,7 @@ window.MFD_PUBLIC_DATA = {
     "automation": "Scheduled GitHub refresh; monthly reviews use previous month-end rankings and the next complete new NAV observation. Missed monthly selections are not backfilled."
   },
   "automation": {
-    "checkedAt": "2026-11-21T22:22:35.551Z",
+    "checkedAt": "2026-11-22T08:48:45.671Z",
     "status": {
       "market": "ok",
       "weekly": "ok",
