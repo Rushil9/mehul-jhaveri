@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "publishedAt": "2026-11-24T05:40:25.044Z",
+  "publishedAt": "2026-11-24T07:27:19.129Z",
   "appVersion": "1.15.0",
   "market": {
     "data": [
@@ -98,7 +98,7 @@
         "low": 17634.05
       }
     ],
-    "fetchedAt": "2026-11-24T05:40:25.044Z"
+    "fetchedAt": "2026-11-24T07:27:19.129Z"
   },
   "snapshots": {
     "weekly": {
@@ -108,7 +108,7 @@
       "summary": "Healthcare had the highest average return (0.74%) and Infrastructure the lowest (-0.94%) among 17 categories with at least 3 funds and 80% coverage. These are equal-weight fund-category averages, not market indices.",
       "source": "AMFI NAV history and scheme master via Tigzig",
       "sourceUrl": "https://www.tigzig.com/apis/mf-nav",
-      "fetchedAt": "2026-11-24T05:40:38.583Z",
+      "fetchedAt": "2026-11-24T07:27:30.540Z",
       "rows": [
         {
           "category": "Large cap",
@@ -289,7 +289,7 @@
       "summary": "Banking & financial services had the highest average return (13.18%) and Arbitrage the lowest (0.28%) among 17 categories with at least 3 funds and 80% coverage. These are equal-weight fund-category averages, not market indices.",
       "source": "AMFI NAV history and scheme master via Tigzig",
       "sourceUrl": "https://www.tigzig.com/apis/mf-nav",
-      "fetchedAt": "2026-11-24T05:40:38.600Z",
+      "fetchedAt": "2026-11-24T07:27:30.562Z",
       "rows": [
         {
           "category": "Large cap",
@@ -468,7 +468,7 @@
     "state": {
       "inception": "2026-11-18",
       "reviewMonth": "2026-11",
-      "checkedAt": "2026-11-24T05:40:38.614Z",
+      "checkedAt": "2026-11-24T07:27:30.579Z",
       "reviewWarning": "",
       "points": [
         {
@@ -1270,7 +1270,7 @@
     "automation": "Scheduled GitHub refresh; monthly reviews use previous month-end rankings and the next complete new NAV observation. Missed monthly selections are not backfilled."
   },
   "automation": {
-    "checkedAt": "2026-11-24T05:40:25.044Z",
+    "checkedAt": "2026-11-24T07:27:19.129Z",
     "status": {
       "market": "ok",
       "weekly": "ok",
