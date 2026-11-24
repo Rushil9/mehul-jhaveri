@@ -9,7 +9,7 @@
  record('page_view','website');
  document.addEventListener('click',e=>{const el=e.target.closest('a,button');if(!el||el.disabled)return;const id=el.id;
  if(id==='review-whatsapp'){if(document.querySelector('#review-form').checkValidity())record('whatsapp','contact');return;}
- const known={'quick-whatsapp':['whatsapp','mobile'],'quick-email':['email','mobile'],'dream-email':['email','goals'],'dream-whatsapp':['whatsapp','goals']};
+ const known={'booking-whatsapp':['whatsapp','contact'],'booking-email':['email','contact'],'quick-whatsapp':['whatsapp','mobile'],'quick-email':['email','mobile'],'dream-email':['email','goals'],'dream-whatsapp':['whatsapp','goals']};
  if(known[id]){if(id.startsWith('dream-')&&(!el.getAttribute('href')||document.querySelector('#dream-share').hidden))return;record(...known[id]);return;}
  // Classify by element location; never read or transmit an outbound URL or its message.
  if(el.matches('a.whatsapp-float'))record('whatsapp','floating');
