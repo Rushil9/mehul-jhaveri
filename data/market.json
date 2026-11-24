@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "publishedAt": "2026-11-24T04:47:06.334Z",
+  "publishedAt": "2026-11-24T05:03:24.636Z",
   "appVersion": "1.15.0",
   "market": {
     "data": [
@@ -98,7 +98,7 @@
         "low": 17634.05
       }
     ],
-    "fetchedAt": "2026-11-24T04:47:06.334Z"
+    "fetchedAt": "2026-11-24T05:03:24.636Z"
   },
   "snapshots": {
     "weekly": {
@@ -108,7 +108,7 @@
       "summary": "Healthcare had the highest average return (0.80%) and Infrastructure the lowest (-0.98%) among 17 categories with at least 3 funds and 80% coverage. These are equal-weight fund-category averages, not market indices.",
       "source": "AMFI NAV history and scheme master via Tigzig",
       "sourceUrl": "https://www.tigzig.com/apis/mf-nav",
-      "fetchedAt": "2026-11-24T04:47:18.115Z",
+      "fetchedAt": "2026-11-24T05:03:39.646Z",
       "rows": [
         {
           "category": "Large cap",
@@ -289,7 +289,7 @@
       "summary": "Healthcare had the highest average return (13.37%) and Arbitrage the lowest (0.27%) among 17 categories with at least 3 funds and 80% coverage. These are equal-weight fund-category averages, not market indices.",
       "source": "AMFI NAV history and scheme master via Tigzig",
       "sourceUrl": "https://www.tigzig.com/apis/mf-nav",
-      "fetchedAt": "2026-11-24T04:47:18.136Z",
+      "fetchedAt": "2026-11-24T05:03:39.669Z",
       "rows": [
         {
           "category": "Large cap",
@@ -468,7 +468,7 @@
     "state": {
       "inception": "2026-11-18",
       "reviewMonth": "2026-11",
-      "checkedAt": "2026-11-24T04:47:22.686Z",
+      "checkedAt": "2026-11-24T05:03:45.683Z",
       "reviewWarning": "",
       "points": [
         {
@@ -1301,7 +1301,7 @@
     "automation": "Scheduled GitHub refresh; monthly reviews use previous month-end rankings and the next complete new NAV observation. Missed monthly selections are not backfilled."
   },
   "automation": {
-    "checkedAt": "2026-11-24T04:47:06.334Z",
+    "checkedAt": "2026-11-24T05:03:24.636Z",
     "status": {
       "market": "ok",
       "weekly": "ok",
