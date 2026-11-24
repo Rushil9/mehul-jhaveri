@@ -1,5 +1,5 @@
-const CACHE='investor-corner-v17';
-const FILES=['./','index.html','styles.css','app.js','calculators.js','dreams.js','nav-model.js','data/market-data.js','data/market.json','assets/logo.png','assets/app-icon.png','assets/banner-sip.svg','assets/banner-stepup.svg','assets/banner-perspective.svg','manifest.webmanifest'];
+const CACHE='investor-corner-v18';
+const FILES=['./','index.html','styles.css','improvements.css','improvements.js','app.js','calculators.js','dreams.js','nav-model.js','data/market-data.js','data/market.json','assets/logo.png','assets/app-icon.png','assets/banner-sip.svg','assets/banner-stepup.svg','assets/banner-perspective.svg','manifest.webmanifest'];
 self.addEventListener('install',e=>{e.waitUntil(caches.open(CACHE).then(c=>c.addAll(FILES)));self.skipWaiting();});
 self.addEventListener('activate',e=>{e.waitUntil(caches.keys().then(keys=>Promise.all(keys.filter(k=>k.startsWith('investor-corner-')&&k!==CACHE).map(k=>caches.delete(k)))).then(()=>self.clients.claim()));});
 // Never intercept third-party NAV requests or form data. Published data is network-first.
