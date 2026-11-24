@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "publishedAt": "2026-11-24T03:28:32.134Z",
+  "publishedAt": "2026-11-24T04:45:51.416Z",
   "appVersion": "1.15.0",
   "market": {
     "data": [
@@ -98,7 +98,7 @@
         "low": 17634.05
       }
     ],
-    "fetchedAt": "2026-11-24T03:28:32.134Z"
+    "fetchedAt": "2026-11-24T04:45:51.416Z"
   },
   "snapshots": {
     "weekly": {
@@ -108,7 +108,7 @@
       "summary": "Healthcare had the highest average return (0.80%) and Infrastructure the lowest (-0.98%) among 17 categories with at least 3 funds and 80% coverage. These are equal-weight fund-category averages, not market indices.",
       "source": "AMFI NAV history and scheme master via Tigzig",
       "sourceUrl": "https://www.tigzig.com/apis/mf-nav",
-      "fetchedAt": "2026-11-24T03:28:45.036Z",
+      "fetchedAt": "2026-11-24T04:46:11.123Z",
       "rows": [
         {
           "category": "Large cap",
@@ -289,7 +289,7 @@
       "summary": "Healthcare had the highest average return (13.37%) and Arbitrage the lowest (0.27%) among 17 categories with at least 3 funds and 80% coverage. These are equal-weight fund-category averages, not market indices.",
       "source": "AMFI NAV history and scheme master via Tigzig",
       "sourceUrl": "https://www.tigzig.com/apis/mf-nav",
-      "fetchedAt": "2026-11-24T03:28:45.053Z",
+      "fetchedAt": "2026-11-24T04:46:11.142Z",
       "rows": [
         {
           "category": "Large cap",
@@ -468,7 +468,7 @@
     "state": {
       "inception": "2026-11-18",
       "reviewMonth": "2026-11",
-      "checkedAt": "2026-11-24T03:28:47.656Z",
+      "checkedAt": "2026-11-24T04:46:15.844Z",
       "reviewWarning": "",
       "points": [
         {
@@ -485,6 +485,11 @@
           "date": "2026-11-20",
           "level": 1009.9298825593977,
           "nifty": 1022.6325130697804
+        },
+        {
+          "date": "2026-11-23",
+          "level": 1003.5303136768177,
+          "nifty": 1004.5615940084317
         }
       ],
       "book": [
@@ -1257,14 +1262,46 @@
         }
       ]
     },
-    "brief": "From 2026-11-19 to 2026-11-20, the MFD category-leader model moved +0.37%, versus +1.12% for the Nifty 50 fund basket, a difference of -0.75 percentage points. This model mixes equity, hybrid, arbitrage and debt categories; the baskets have different risk exposures. Latest recorded interval may span multiple days.",
+    "brief": "From 2026-11-20 to 2026-11-23, the MFD category-leader model moved -0.63%, versus -1.77% for the Nifty 50 fund basket, a difference of 1.13 percentage points. This model mixes equity, hybrid, arbitrage and debt categories; the baskets have different risk exposures. Latest recorded interval may span multiple days.",
     "rules": "Top 3 eligible Regular Growth schemes per category by trailing 3-year NAV CAGR at the previous month-end. Equal weight across 17 categories, then equal weight within each category. Overseas, defunct, unclaimed and named closed-series schemes are excluded. Only schemes with paired positive NAVs are ranked; ties use AMFI code. Nifty comparison: all eligible plain Nifty 50 Regular Growth index funds, equally weighted. Reviews run monthly on the next successful scheduled GitHub refresh; implementation uses available NAVs after the ranking date. No real transactions. Category assignments use the provider’s current scheme master rather than historical point-in-time classifications. Unadjusted NAVs can be affected by mergers or unit splits; rankings are research signals, not recommendations. Fees are reflected in NAV; investor taxes, exit loads and transaction costs are excluded.",
-    "source": "AMFI NAV history and scheme master via Tigzig; exact-date constituent matching",
+    "source": "AMFI NAV history and scheme master via Tigzig; MFapi fallback for missing constituent NAVs, with matching-date and anchor checks",
+    "navFallback": [
+      {
+        "code": "104075",
+        "date": "2026-11-23",
+        "source": "MFapi.in"
+      },
+      {
+        "code": "100807",
+        "date": "2026-11-23",
+        "source": "MFapi.in"
+      },
+      {
+        "code": "120577",
+        "date": "2026-11-23",
+        "source": "MFapi.in"
+      },
+      {
+        "code": "100522",
+        "date": "2026-11-23",
+        "source": "MFapi.in"
+      },
+      {
+        "code": "100822",
+        "date": "2026-11-23",
+        "source": "MFapi.in"
+      },
+      {
+        "code": "149252",
+        "date": "2026-11-23",
+        "source": "MFapi.in"
+      }
+    ],
     "error": "",
     "automation": "Scheduled GitHub refresh; monthly reviews use previous month-end rankings and the next complete new NAV observation. Missed monthly selections are not backfilled."
   },
   "automation": {
-    "checkedAt": "2026-11-24T03:28:32.134Z",
+    "checkedAt": "2026-11-24T04:45:51.416Z",
     "status": {
       "market": "ok",
       "weekly": "ok",
