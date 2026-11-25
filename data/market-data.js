@@ -1,6 +1,6 @@
 window.MFD_PUBLIC_DATA = {
   "schema": 1,
-  "publishedAt": "2026-11-24T21:06:00.451Z",
+  "publishedAt": "2026-11-25T01:36:09.766Z",
   "appVersion": "1.15.0",
   "market": {
     "data": [
@@ -98,7 +98,7 @@ window.MFD_PUBLIC_DATA = {
         "low": 17634.05
       }
     ],
-    "fetchedAt": "2026-11-24T21:06:00.451Z"
+    "fetchedAt": "2026-11-25T01:36:09.766Z"
   },
   "snapshots": {
     "weekly": {
@@ -108,7 +108,7 @@ window.MFD_PUBLIC_DATA = {
       "summary": "Healthcare had the highest average return (0.74%) and Infrastructure the lowest (-0.94%) among 17 categories with at least 3 funds and 80% coverage. These are equal-weight fund-category averages, not market indices.",
       "source": "AMFI NAV history and scheme master via Tigzig",
       "sourceUrl": "https://www.tigzig.com/apis/mf-nav",
-      "fetchedAt": "2026-11-24T21:06:15.629Z",
+      "fetchedAt": "2026-11-25T01:36:23.130Z",
       "rows": [
         {
           "category": "Large cap",
@@ -289,7 +289,7 @@ window.MFD_PUBLIC_DATA = {
       "summary": "Banking & financial services had the highest average return (13.18%) and Arbitrage the lowest (0.28%) among 17 categories with at least 3 funds and 80% coverage. These are equal-weight fund-category averages, not market indices.",
       "source": "AMFI NAV history and scheme master via Tigzig",
       "sourceUrl": "https://www.tigzig.com/apis/mf-nav",
-      "fetchedAt": "2026-11-24T21:06:15.645Z",
+      "fetchedAt": "2026-11-25T01:36:23.152Z",
       "rows": [
         {
           "category": "Large cap",
@@ -468,7 +468,7 @@ window.MFD_PUBLIC_DATA = {
     "state": {
       "inception": "2026-11-18",
       "reviewMonth": "2026-11",
-      "checkedAt": "2026-11-24T21:06:15.656Z",
+      "checkedAt": "2026-11-25T01:36:23.170Z",
       "reviewWarning": "",
       "points": [
         {
@@ -1270,7 +1270,7 @@ window.MFD_PUBLIC_DATA = {
     "automation": "Scheduled GitHub refresh; monthly reviews use previous month-end rankings and the next complete new NAV observation. Missed monthly selections are not backfilled."
   },
   "automation": {
-    "checkedAt": "2026-11-24T21:06:00.451Z",
+    "checkedAt": "2026-11-25T01:36:09.766Z",
     "status": {
       "market": "ok",
       "weekly": "ok",
