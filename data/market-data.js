@@ -1,6 +1,6 @@
 window.MFD_PUBLIC_DATA = {
   "schema": 1,
-  "publishedAt": "2026-11-25T10:28:39.515Z",
+  "publishedAt": "2026-11-25T20:26:53.231Z",
   "appVersion": "1.15.0",
   "market": {
     "data": [
@@ -98,96 +98,96 @@ window.MFD_PUBLIC_DATA = {
         "low": 17592.6
       }
     ],
-    "fetchedAt": "2026-11-25T10:28:39.515Z"
+    "fetchedAt": "2026-11-25T20:26:53.231Z"
   },
   "snapshots": {
     "weekly": {
       "period": "weekly",
-      "start": "2026-11-16",
-      "end": "2026-11-23",
-      "summary": "Healthcare had the highest average return (0.74%) and Infrastructure the lowest (-0.94%) among 17 categories with at least 3 funds and 80% coverage. These are equal-weight fund-category averages, not market indices.",
+      "start": "2026-11-18",
+      "end": "2026-11-25",
+      "summary": "Consumption had the highest average return (2.53%) and Infrastructure the lowest (-0.23%) among 17 categories with at least 3 funds and 80% coverage. These are equal-weight fund-category averages, not market indices.",
       "source": "AMFI NAV history and scheme master via Tigzig",
       "sourceUrl": "https://www.tigzig.com/apis/mf-nav",
-      "fetchedAt": "2026-11-25T10:28:56.078Z",
+      "fetchedAt": "2026-11-25T20:27:09.314Z",
       "rows": [
         {
           "category": "Large cap",
           "eligible": 37,
           "count": 37,
           "coverage": 100,
-          "change": 0.23769577312711002,
-          "median": 0.28822980356408845,
-          "up": 29,
-          "down": 8
+          "change": 2.096624166481676,
+          "median": 2.1648387484338283,
+          "up": 37,
+          "down": 0
         },
         {
           "category": "Large & mid cap",
-          "eligible": 38,
-          "count": 38,
+          "eligible": 36,
+          "count": 36,
           "coverage": 100,
-          "change": -0.08283576564833336,
-          "median": -0.07479459042405434,
-          "up": 15,
-          "down": 21
+          "change": 1.2722050990757627,
+          "median": 1.2378266496688828,
+          "up": 35,
+          "down": 1
         },
         {
           "category": "Mid cap",
           "eligible": 33,
           "count": 33,
           "coverage": 100,
-          "change": -0.43129183766093815,
-          "median": -0.4105090311986803,
-          "up": 7,
-          "down": 26
+          "change": 0.5787657715555447,
+          "median": 0.5887220779369651,
+          "up": 28,
+          "down": 5
         },
         {
           "category": "Small cap",
           "eligible": 36,
           "count": 36,
           "coverage": 100,
-          "change": -0.5779315865617547,
-          "median": -0.5403624290630571,
-          "up": 3,
-          "down": 33
+          "change": -0.09530151550341978,
+          "median": 0.00985399447686608,
+          "up": 18,
+          "down": 18
         },
         {
           "category": "Flexi cap",
-          "eligible": 46,
-          "count": 46,
+          "eligible": 45,
+          "count": 45,
           "coverage": 100,
-          "change": 0.0644365118182883,
-          "median": 0.13848302351157082,
-          "up": 25,
-          "down": 19
+          "change": 1.3562810342172869,
+          "median": 1.5031645569620222,
+          "up": 42,
+          "down": 2
         },
         {
           "category": "Multi cap",
           "eligible": 32,
           "count": 32,
           "coverage": 100,
-          "change": -0.18477116741228225,
-          "median": -0.16345660362096504,
-          "up": 12,
-          "down": 19
+          "change": 1.0613331847231724,
+          "median": 1.0890252113735843,
+          "up": 31,
+          "down": 0
         },
         {
           "category": "Arbitrage",
           "eligible": 38,
           "count": 38,
           "coverage": 100,
-          "change": -0.004192506728940617,
-          "median": -0.009069485611218342,
-          "up": 13,
-          "down": 22
+          "change": 0.18096648005249244,
+          "median": 0.17804078328895745,
+          "up": 38,
+          "down": 0
         },
         {
           "category": "Healthcare",
-          "eligible": 18,
-          "count": 18,
+          "eligible": 17,
+          "count": 17,
           "coverage": 100,
-          "change": 0.7397084496606477,
-          "median": 0.7227204956857025,
-          "up": 18,
+          "change": 2.447094398201967,
+          "median": 2.33971785755247,
+          "up": 17,
           "down": 0
         },
         {
@@ -195,78 +195,78 @@ window.MFD_PUBLIC_DATA = {
           "eligible": 27,
           "count": 27,
           "coverage": 100,
-          "change": 0.03503929053873964,
-          "median": 0.06679729248308952,
-          "up": 16,
-          "down": 11
+          "change": 1.5387082906069918,
+          "median": 1.7152324334860136,
+          "up": 26,
+          "down": 1
         },
         {
           "category": "Technology",
-          "eligible": 12,
-          "count": 12,
+          "eligible": 6,
+          "count": 6,
           "coverage": 100,
-          "change": -0.8435173741755554,
-          "median": -0.7791665452898444,
-          "up": 2,
-          "down": 10
+          "change": 1.0302664409699385,
+          "median": 1.405848156506606,
+          "up": 5,
+          "down": 1
         },
         {
           "category": "Infrastructure",
           "eligible": 18,
           "count": 18,
           "coverage": 100,
-          "change": -0.9368469493436129,
-          "median": -0.9177368187937851,
-          "up": 1,
-          "down": 17
+          "change": -0.23058663898517764,
+          "median": -0.3590236104303479,
+          "up": 6,
+          "down": 12
         },
         {
           "category": "Consumption",
           "eligible": 25,
           "count": 25,
           "coverage": 100,
-          "change": 0.4244405757960746,
-          "median": 0.539742349406791,
-          "up": 22,
-          "down": 3
+          "change": 2.530384821856723,
+          "median": 2.571235165950969,
+          "up": 24,
+          "down": 1
         },
         {
           "category": "ELSS",
           "eligible": 49,
           "count": 49,
           "coverage": 100,
-          "change": 0.1005512368317609,
-          "median": 0.12766823180923037,
-          "up": 32,
-          "down": 17
+          "change": 1.3331758635949964,
+          "median": 1.4053294416517925,
+          "up": 44,
+          "down": 5
         },
         {
           "category": "Balanced advantage",
           "eligible": 37,
           "count": 37,
           "coverage": 100,
-          "change": 0.07871238827096703,
-          "median": 0.10513537124510197,
-          "up": 23,
-          "down": 13
+          "change": 1.1462580189889464,
+          "median": 1.172490499582901,
+          "up": 37,
+          "down": 0
         },
         {
           "category": "Aggressive hybrid",
           "eligible": 31,
           "count": 31,
           "coverage": 100,
-          "change": 0.02491574618582379,
-          "median": 0.1569858712715977,
-          "up": 18,
-          "down": 13
+          "change": 1.1520936100226709,
+          "median": 1.1553317698993038,
+          "up": 30,
+          "down": 1
         },
         {
           "category": "Liquid",
           "eligible": 53,
           "count": 53,
           "coverage": 100,
-          "change": 0.10363900545127049,
-          "median": 0.10641612857591465,
+          "change": 0.10666349742236025,
+          "median": 0.1096726971909101,
           "up": 52,
           "down": 0
         },
@@ -275,8 +275,8 @@ window.MFD_PUBLIC_DATA = {
           "eligible": 22,
           "count": 22,
           "coverage": 100,
-          "change": 0.15185859293754922,
-          "median": 0.15106917450087298,
+          "change": 0.09733958356208383,
+          "median": 0.09546345138143897,
           "up": 22,
           "down": 0
         }
@@ -285,30 +285,30 @@ window.MFD_PUBLIC_DATA = {
     "monthly": {
       "period": "monthly",
       "start": "2026-10-23",
-      "end": "2026-11-23",
-      "summary": "Banking & financial services had the highest average return (13.18%) and Arbitrage the lowest (0.28%) among 17 categories with at least 3 funds and 80% coverage. These are equal-weight fund-category averages, not market indices.",
+      "end": "2026-11-25",
+      "summary": "Healthcare had the highest average return (14.95%) and Arbitrage the lowest (0.40%) among 17 categories with at least 3 funds and 80% coverage. These are equal-weight fund-category averages, not market indices.",
       "source": "AMFI NAV history and scheme master via Tigzig",
       "sourceUrl": "https://www.tigzig.com/apis/mf-nav",
-      "fetchedAt": "2026-11-25T10:28:56.098Z",
+      "fetchedAt": "2026-11-25T20:27:09.337Z",
       "rows": [
         {
           "category": "Large cap",
           "eligible": 37,
           "count": 37,
           "coverage": 100,
-          "change": 11.843930244124433,
-          "median": 11.755110468717733,
+          "change": 13.525721351098404,
+          "median": 13.545698124441795,
           "up": 37,
           "down": 0
         },
         {
           "category": "Large & mid cap",
-          "eligible": 38,
-          "count": 37,
-          "coverage": 97.36842105263158,
-          "change": 10.887702287437934,
-          "median": 10.892519467706506,
-          "up": 37,
+          "eligible": 36,
+          "count": 35,
+          "coverage": 97.22222222222221,
+          "change": 11.824808574515933,
+          "median": 11.794349316944386,
+          "up": 35,
           "down": 0
         },
         {
@@ -316,8 +316,8 @@ window.MFD_PUBLIC_DATA = {
           "eligible": 33,
           "count": 33,
           "coverage": 100,
-          "change": 9.78681064569444,
-          "median": 9.518828451882854,
+          "change": 9.881130542494875,
+          "median": 9.81232394458733,
           "up": 33,
           "down": 0
         },
@@ -326,19 +326,19 @@ window.MFD_PUBLIC_DATA = {
           "eligible": 36,
           "count": 35,
           "coverage": 97.22222222222221,
-          "change": 7.501262762860371,
-          "median": 7.464084410228189,
+          "change": 7.34152898102932,
+          "median": 7.269686467316827,
           "up": 35,
           "down": 0
         },
         {
           "category": "Flexi cap",
-          "eligible": 46,
-          "count": 46,
+          "eligible": 45,
+          "count": 45,
           "coverage": 100,
-          "change": 10.48493536747887,
-          "median": 10.916196827758206,
-          "up": 46,
+          "change": 11.522780157034077,
+          "median": 12.049703230187593,
+          "up": 45,
           "down": 0
         },
         {
@@ -346,8 +346,8 @@ window.MFD_PUBLIC_DATA = {
           "eligible": 32,
           "count": 32,
           "coverage": 100,
-          "change": 10.020719713682812,
-          "median": 10.12583584832959,
+          "change": 10.657816988068385,
+          "median": 10.868588139776925,
           "up": 32,
           "down": 0
         },
@@ -356,19 +356,19 @@ window.MFD_PUBLIC_DATA = {
           "eligible": 38,
           "count": 38,
           "coverage": 100,
-          "change": 0.28085239769960174,
-          "median": 0.2849750688028285,
-          "up": 37,
+          "change": 0.3997811523305976,
+          "median": 0.40397608337180424,
+          "up": 38,
           "down": 0
         },
         {
           "category": "Healthcare",
-          "eligible": 18,
-          "count": 18,
+          "eligible": 17,
+          "count": 17,
           "coverage": 100,
-          "change": 13.075467534151283,
-          "median": 12.866164266334824,
-          "up": 18,
+          "change": 14.950655344805382,
+          "median": 14.776885009734709,
+          "up": 17,
           "down": 0
         },
         {
@@ -376,19 +376,19 @@ window.MFD_PUBLIC_DATA = {
           "eligible": 27,
           "count": 27,
           "coverage": 100,
-          "change": 13.184967289588329,
-          "median": 13.221141734267139,
+          "change": 14.86939585698214,
+          "median": 14.954080748570453,
           "up": 27,
           "down": 0
         },
         {
           "category": "Technology",
-          "eligible": 12,
-          "count": 12,
+          "eligible": 6,
+          "count": 6,
           "coverage": 100,
-          "change": 2.8439249205193726,
-          "median": 2.095887201774971,
-          "up": 12,
+          "change": 4.021344967463636,
+          "median": 3.918817014693221,
+          "up": 6,
           "down": 0
         },
         {
@@ -396,8 +396,8 @@ window.MFD_PUBLIC_DATA = {
           "eligible": 18,
           "count": 18,
           "coverage": 100,
-          "change": 7.635131266337552,
-          "median": 7.971820843868382,
+          "change": 7.710312391316385,
+          "median": 7.938687510804609,
           "up": 18,
           "down": 0
         },
@@ -406,8 +406,8 @@ window.MFD_PUBLIC_DATA = {
           "eligible": 25,
           "count": 25,
           "coverage": 100,
-          "change": 11.99857996028377,
-          "median": 12.627056973168393,
+          "change": 13.371442177008305,
+          "median": 13.974491008476608,
           "up": 25,
           "down": 0
         },
@@ -416,8 +416,8 @@ window.MFD_PUBLIC_DATA = {
           "eligible": 49,
           "count": 49,
           "coverage": 100,
-          "change": 9.996397067859867,
-          "median": 10.642934980021801,
+          "change": 10.960031184075008,
+          "median": 11.859983802753549,
           "up": 49,
           "down": 0
         },
@@ -426,8 +426,8 @@ window.MFD_PUBLIC_DATA = {
           "eligible": 37,
           "count": 37,
           "coverage": 100,
-          "change": 7.462401921417352,
-          "median": 7.68542008655424,
+          "change": 8.290344344680573,
+          "median": 8.600259211257178,
           "up": 37,
           "down": 0
         },
@@ -436,8 +436,8 @@ window.MFD_PUBLIC_DATA = {
           "eligible": 31,
           "count": 31,
           "coverage": 100,
-          "change": 8.57063326655127,
-          "median": 8.644514363185207,
+          "change": 9.480631009850732,
+          "median": 9.553519848147229,
           "up": 31,
           "down": 0
         },
@@ -446,8 +446,8 @@ window.MFD_PUBLIC_DATA = {
           "eligible": 53,
           "count": 53,
           "coverage": 100,
-          "change": 0.5713984551891803,
-          "median": 0.5914569198144592,
+          "change": 0.6046771657019955,
+          "median": 0.6260094880428335,
           "up": 52,
           "down": 0
         },
@@ -456,8 +456,8 @@ window.MFD_PUBLIC_DATA = {
           "eligible": 22,
           "count": 22,
           "coverage": 100,
-          "change": 0.9277114390555038,
-          "median": 0.9198830475558029,
+          "change": 0.9378227832857872,
+          "median": 0.9093109584466963,
           "up": 22,
           "down": 0
         }
@@ -468,7 +468,7 @@ window.MFD_PUBLIC_DATA = {
     "state": {
       "inception": "2026-11-18",
       "reviewMonth": "2026-11",
-      "checkedAt": "2026-11-25T10:28:56.114Z",
+      "checkedAt": "2026-11-25T20:27:11.504Z",
       "reviewWarning": "",
       "points": [
         {
@@ -1270,7 +1270,7 @@ window.MFD_PUBLIC_DATA = {
     "automation": "Scheduled GitHub refresh; monthly reviews use previous month-end rankings and the next complete new NAV observation. Missed monthly selections are not backfilled."
   },
   "automation": {
-    "checkedAt": "2026-11-25T10:28:39.515Z",
+    "checkedAt": "2026-11-25T20:26:53.231Z",
     "status": {
       "market": "ok",
       "weekly": "ok",
