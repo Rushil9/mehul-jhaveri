@@ -1,6 +1,6 @@
 window.MFD_PUBLIC_DATA = {
   "schema": 1,
-  "publishedAt": "2026-11-26T10:01:55.913Z",
+  "publishedAt": "2026-11-26T18:26:49.346Z",
   "appVersion": "1.15.0",
   "market": {
     "data": [
@@ -21,11 +21,11 @@ window.MFD_PUBLIC_DATA = {
       },
       {
         "name": "SENSEX",
-        "value": 84291.86,
+        "value": 84328.59,
         "previousClose": 83938.28125,
-        "change": 0.4212365856609779,
-        "points": 353.5787500000006,
-        "asOf": "2026-11-26T09:46:56.000Z",
+        "change": 0.46499492744855875,
+        "points": 390.3087499999965,
+        "asOf": "2026-11-26T10:02:28.000Z",
         "source": "Yahoo Finance · snapshot may be delayed",
         "sourceUrl": "https://finance.yahoo.com/quote/%5EBSESN/"
       },
@@ -50,10 +50,10 @@ window.MFD_PUBLIC_DATA = {
         "segment": "Large cap",
         "name": "NIFTY 100",
         "url": "https://www.niftyindices.com/indices/equity/broad-based-indices/nifty-100",
-        "value": 26705.55,
+        "value": 26705.2,
         "previousClose": 26651.7,
         "change": 0.2,
-        "points": 53.849999999998545,
+        "points": 53.5,
         "asOf": "2026-11-26T10:00:00.000Z",
         "source": "NSE India · snapshot may be delayed",
         "sourceUrl": "https://www.nseindia.com/market-data/live-market-indices",
@@ -67,10 +67,10 @@ window.MFD_PUBLIC_DATA = {
         "segment": "Mid cap",
         "name": "NIFTY MIDCAP 150",
         "url": "https://www.niftyindices.com/indices/equity/broad-based-indices/nifty-midcap-150",
-        "value": 22647.75,
+        "value": 22650,
         "previousClose": 22591.4,
-        "change": 0.25,
-        "points": 56.349999999998545,
+        "change": 0.26,
+        "points": 58.599999999998545,
         "asOf": "2026-11-26T10:00:00.000Z",
         "source": "NSE India · snapshot may be delayed",
         "sourceUrl": "https://www.nseindia.com/market-data/live-market-indices",
@@ -84,10 +84,10 @@ window.MFD_PUBLIC_DATA = {
         "segment": "Small cap",
         "name": "NIFTY SMALLCAP 250",
         "url": "https://www.niftyindices.com/indices/equity/broad-based-indices/niftysmallcap250",
-        "value": 17729.35,
+        "value": 17735.3,
         "previousClose": 17630.6,
-        "change": 0.56,
-        "points": 98.75,
+        "change": 0.59,
+        "points": 104.70000000000073,
         "asOf": "2026-11-26T10:00:00.000Z",
         "source": "NSE India · snapshot may be delayed",
         "sourceUrl": "https://www.nseindia.com/market-data/live-market-indices",
@@ -98,7 +98,7 @@ window.MFD_PUBLIC_DATA = {
         "low": 17632.65
       }
     ],
-    "fetchedAt": "2026-11-26T10:01:55.913Z"
+    "fetchedAt": "2026-11-26T18:26:49.346Z"
   },
   "snapshots": {
     "weekly": {
@@ -108,7 +108,7 @@ window.MFD_PUBLIC_DATA = {
       "summary": "Consumption had the highest average return (2.53%) and Infrastructure the lowest (-0.23%) among 17 categories with at least 3 funds and 80% coverage. These are equal-weight fund-category averages, not market indices.",
       "source": "AMFI NAV history and scheme master via Tigzig",
       "sourceUrl": "https://www.tigzig.com/apis/mf-nav",
-      "fetchedAt": "2026-11-26T10:02:09.563Z",
+      "fetchedAt": "2026-11-26T18:27:04.824Z",
       "rows": [
         {
           "category": "Large cap",
@@ -289,7 +289,7 @@ window.MFD_PUBLIC_DATA = {
       "summary": "Banking & financial services had the highest average return (14.87%) and Arbitrage the lowest (0.40%) among 17 categories with at least 3 funds and 80% coverage. These are equal-weight fund-category averages, not market indices.",
       "source": "AMFI NAV history and scheme master via Tigzig",
       "sourceUrl": "https://www.tigzig.com/apis/mf-nav",
-      "fetchedAt": "2026-11-26T10:02:09.577Z",
+      "fetchedAt": "2026-11-26T18:27:04.847Z",
       "rows": [
         {
           "category": "Large cap",
@@ -468,7 +468,7 @@ window.MFD_PUBLIC_DATA = {
     "state": {
       "inception": "2026-11-18",
       "reviewMonth": "2026-11",
-      "checkedAt": "2026-11-26T10:02:09.588Z",
+      "checkedAt": "2026-11-26T18:27:04.864Z",
       "reviewWarning": "",
       "points": [
         {
@@ -1276,7 +1276,7 @@ window.MFD_PUBLIC_DATA = {
     "automation": "Scheduled GitHub refresh; monthly reviews use previous month-end rankings and the next complete new NAV observation. Missed monthly selections are not backfilled."
   },
   "automation": {
-    "checkedAt": "2026-11-26T10:01:55.913Z",
+    "checkedAt": "2026-11-26T18:26:49.346Z",
     "status": {
       "market": "ok",
       "weekly": "ok",
