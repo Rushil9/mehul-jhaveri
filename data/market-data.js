@@ -1,6 +1,6 @@
 window.MFD_PUBLIC_DATA = {
   "schema": 1,
-  "publishedAt": "2026-11-25T20:26:53.231Z",
+  "publishedAt": "2026-11-26T01:09:53.096Z",
   "appVersion": "1.15.0",
   "market": {
     "data": [
@@ -98,7 +98,7 @@ window.MFD_PUBLIC_DATA = {
         "low": 17592.6
       }
     ],
-    "fetchedAt": "2026-11-25T20:26:53.231Z"
+    "fetchedAt": "2026-11-26T01:09:53.096Z"
   },
   "snapshots": {
     "weekly": {
@@ -108,7 +108,7 @@ window.MFD_PUBLIC_DATA = {
       "summary": "Consumption had the highest average return (2.53%) and Infrastructure the lowest (-0.23%) among 17 categories with at least 3 funds and 80% coverage. These are equal-weight fund-category averages, not market indices.",
       "source": "AMFI NAV history and scheme master via Tigzig",
       "sourceUrl": "https://www.tigzig.com/apis/mf-nav",
-      "fetchedAt": "2026-11-25T20:27:09.314Z",
+      "fetchedAt": "2026-11-26T01:10:07.628Z",
       "rows": [
         {
           "category": "Large cap",
@@ -289,7 +289,7 @@ window.MFD_PUBLIC_DATA = {
       "summary": "Healthcare had the highest average return (14.95%) and Arbitrage the lowest (0.40%) among 17 categories with at least 3 funds and 80% coverage. These are equal-weight fund-category averages, not market indices.",
       "source": "AMFI NAV history and scheme master via Tigzig",
       "sourceUrl": "https://www.tigzig.com/apis/mf-nav",
-      "fetchedAt": "2026-11-25T20:27:09.337Z",
+      "fetchedAt": "2026-11-26T01:10:07.650Z",
       "rows": [
         {
           "category": "Large cap",
@@ -468,7 +468,7 @@ window.MFD_PUBLIC_DATA = {
     "state": {
       "inception": "2026-11-18",
       "reviewMonth": "2026-11",
-      "checkedAt": "2026-11-25T20:27:11.504Z",
+      "checkedAt": "2026-11-26T01:10:09.760Z",
       "reviewWarning": "",
       "points": [
         {
@@ -1270,7 +1270,7 @@ window.MFD_PUBLIC_DATA = {
     "automation": "Scheduled GitHub refresh; monthly reviews use previous month-end rankings and the next complete new NAV observation. Missed monthly selections are not backfilled."
   },
   "automation": {
-    "checkedAt": "2026-11-25T20:26:53.231Z",
+    "checkedAt": "2026-11-26T01:09:53.096Z",
     "status": {
       "market": "ok",
       "weekly": "ok",
