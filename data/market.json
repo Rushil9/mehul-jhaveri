@@ -1,48 +1,48 @@
 {
   "schema": 1,
-  "publishedAt": "2026-11-27T02:51:50.788Z",
+  "publishedAt": "2026-11-27T10:07:37.367Z",
   "appVersion": "1.15.0",
   "market": {
     "data": [
       {
         "name": "NIFTY 50",
-        "value": 25884.5,
-        "previousClose": 25819.25,
-        "change": 0.25,
-        "points": 65.25,
-        "asOf": "2026-11-26T10:00:00.000Z",
+        "value": 25607.2,
+        "previousClose": 25884.5,
+        "change": -1.07,
+        "points": -277.2999999999993,
+        "asOf": "2026-11-27T10:00:00.000Z",
         "source": "NSE India · snapshot may be delayed",
         "sourceUrl": "https://www.nseindia.com/market-data/live-market-indices",
-        "advances": 22,
-        "declines": 28,
+        "advances": 10,
+        "declines": 40,
         "unchanged": 0,
-        "high": 25974.95,
-        "low": 25733.5
+        "high": 25909.15,
+        "low": 25565.9
       },
       {
         "name": "SENSEX",
-        "value": 84328.59,
-        "previousClose": 83938.28125,
-        "change": 0.46499492744855875,
-        "points": 390.3087499999965,
-        "asOf": "2026-11-26T10:02:28.000Z",
+        "value": 83327.58,
+        "previousClose": 84328.59375,
+        "change": -1.187039538412793,
+        "points": -1001.0137499999983,
+        "asOf": "2026-11-27T09:52:37.000Z",
         "source": "Yahoo Finance · snapshot may be delayed",
         "sourceUrl": "https://finance.yahoo.com/quote/%5EBSESN/"
       },
       {
         "name": "NIFTY BANK",
-        "value": 63535.3,
-        "previousClose": 63703.25,
-        "change": -0.26,
-        "points": -167.9499999999971,
-        "asOf": "2026-11-26T10:00:00.000Z",
+        "value": 63040.9,
+        "previousClose": 63535.3,
+        "change": -0.78,
+        "points": -494.40000000000146,
+        "asOf": "2026-11-27T10:00:00.000Z",
         "source": "NSE India · snapshot may be delayed",
         "sourceUrl": "https://www.nseindia.com/market-data/live-market-indices",
-        "advances": 3,
-        "declines": 11,
+        "advances": 6,
+        "declines": 8,
         "unchanged": 0,
-        "high": 64104.75,
-        "low": 63332.3
+        "high": 63931.65,
+        "low": 62957.7
       }
     ],
     "segments": [
@@ -50,65 +50,65 @@
         "segment": "Large cap",
         "name": "NIFTY 100",
         "url": "https://www.niftyindices.com/indices/equity/broad-based-indices/nifty-100",
-        "value": 26705.2,
-        "previousClose": 26651.7,
-        "change": 0.2,
-        "points": 53.5,
-        "asOf": "2026-11-26T10:00:00.000Z",
+        "value": 26462.9,
+        "previousClose": 26705.2,
+        "change": -0.91,
+        "points": -242.29999999999927,
+        "asOf": "2026-11-27T10:00:00.000Z",
         "source": "NSE India · snapshot may be delayed",
         "sourceUrl": "https://www.nseindia.com/market-data/live-market-indices",
-        "advances": 44,
-        "declines": 56,
+        "advances": 31,
+        "declines": 69,
         "unchanged": 0,
-        "high": 26810.95,
-        "low": 26584.55
+        "high": 26752.45,
+        "low": 26421.2
       },
       {
         "segment": "Mid cap",
         "name": "NIFTY MIDCAP 150",
         "url": "https://www.niftyindices.com/indices/equity/broad-based-indices/nifty-midcap-150",
-        "value": 22650,
-        "previousClose": 22591.4,
-        "change": 0.26,
-        "points": 58.599999999998545,
-        "asOf": "2026-11-26T10:00:00.000Z",
+        "value": 22652.7,
+        "previousClose": 22650,
+        "change": 0.01,
+        "points": 2.7000000000007276,
+        "asOf": "2026-11-27T10:00:00.000Z",
         "source": "NSE India · snapshot may be delayed",
         "sourceUrl": "https://www.nseindia.com/market-data/live-market-indices",
-        "advances": 75,
-        "declines": 73,
-        "unchanged": 2,
-        "high": 22773.25,
-        "low": 22600.9
+        "advances": 68,
+        "declines": 82,
+        "unchanged": 0,
+        "high": 22834.15,
+        "low": 22617.75
       },
       {
         "segment": "Small cap",
         "name": "NIFTY SMALLCAP 250",
         "url": "https://www.niftyindices.com/indices/equity/broad-based-indices/niftysmallcap250",
-        "value": 17735.3,
-        "previousClose": 17630.6,
-        "change": 0.59,
-        "points": 104.70000000000073,
-        "asOf": "2026-11-26T10:00:00.000Z",
+        "value": 17829.9,
+        "previousClose": 17735.3,
+        "change": 0.53,
+        "points": 94.60000000000218,
+        "asOf": "2026-11-27T10:00:00.000Z",
         "source": "NSE India · snapshot may be delayed",
         "sourceUrl": "https://www.nseindia.com/market-data/live-market-indices",
-        "advances": 139,
-        "declines": 110,
-        "unchanged": 2,
-        "high": 17779.55,
-        "low": 17632.65
+        "advances": 154,
+        "declines": 94,
+        "unchanged": 3,
+        "high": 17896.55,
+        "low": 17740.8
       }
     ],
-    "fetchedAt": "2026-11-27T02:51:50.788Z"
+    "fetchedAt": "2026-11-27T10:07:37.367Z"
   },
   "snapshots": {
     "weekly": {
       "period": "weekly",
       "start": "2026-11-19",
       "end": "2026-11-26",
-      "summary": "Technology had the highest average return (2.68%) and Infrastructure the lowest (-1.01%) among 17 categories with at least 3 funds and 80% coverage. These are equal-weight fund-category averages, not market indices.",
+      "summary": "Technology had the highest average return (2.72%) and Infrastructure the lowest (-1.01%) among 17 categories with at least 3 funds and 80% coverage. These are equal-weight fund-category averages, not market indices.",
       "source": "AMFI NAV history and scheme master via Tigzig",
       "sourceUrl": "https://www.tigzig.com/apis/mf-nav",
-      "fetchedAt": "2026-11-27T02:52:03.021Z",
+      "fetchedAt": "2026-11-27T10:07:52.585Z",
       "rows": [
         {
           "category": "Large cap",
@@ -122,12 +122,12 @@
         },
         {
           "category": "Large & mid cap",
-          "eligible": 37,
-          "count": 37,
+          "eligible": 38,
+          "count": 38,
           "coverage": 100,
-          "change": 0.4762033042042261,
-          "median": 0.529636034902925,
-          "up": 30,
+          "change": 0.4776850912189127,
+          "median": 0.5310736228326229,
+          "up": 31,
           "down": 7
         },
         {
@@ -152,12 +152,12 @@
         },
         {
           "category": "Flexi cap",
-          "eligible": 45,
-          "count": 45,
+          "eligible": 46,
+          "count": 46,
           "coverage": 100,
-          "change": 0.48630044092735275,
-          "median": 0.6263383297644642,
-          "up": 35,
+          "change": 0.5169466986829037,
+          "median": 0.6541860063491112,
+          "up": 36,
           "down": 10
         },
         {
@@ -202,12 +202,12 @@
         },
         {
           "category": "Technology",
-          "eligible": 7,
-          "count": 7,
+          "eligible": 12,
+          "count": 12,
           "coverage": 100,
-          "change": 2.6815510706307464,
-          "median": 2.891326021934204,
-          "up": 7,
+          "change": 2.7217221653323214,
+          "median": 2.7996060980909565,
+          "up": 12,
           "down": 0
         },
         {
@@ -289,7 +289,7 @@
       "summary": "Banking & financial services had the highest average return (14.76%) and Arbitrage the lowest (0.44%) among 17 categories with at least 3 funds and 80% coverage. These are equal-weight fund-category averages, not market indices.",
       "source": "AMFI NAV history and scheme master via Tigzig",
       "sourceUrl": "https://www.tigzig.com/apis/mf-nav",
-      "fetchedAt": "2026-11-27T02:52:03.033Z",
+      "fetchedAt": "2026-11-27T10:07:52.597Z",
       "rows": [
         {
           "category": "Large cap",
@@ -303,12 +303,12 @@
         },
         {
           "category": "Large & mid cap",
-          "eligible": 37,
-          "count": 36,
-          "coverage": 97.2972972972973,
-          "change": 10.799155431724756,
-          "median": 10.98415288986656,
-          "up": 36,
+          "eligible": 38,
+          "count": 37,
+          "coverage": 97.36842105263158,
+          "change": 10.782953738444034,
+          "median": 10.860087197780421,
+          "up": 37,
           "down": 0
         },
         {
@@ -333,12 +333,12 @@
         },
         {
           "category": "Flexi cap",
-          "eligible": 45,
-          "count": 45,
+          "eligible": 46,
+          "count": 46,
           "coverage": 100,
-          "change": 10.686784413993028,
-          "median": 10.975484382087464,
-          "up": 45,
+          "change": 10.628556402750306,
+          "median": 10.961880122078217,
+          "up": 46,
           "down": 0
         },
         {
@@ -383,13 +383,13 @@
         },
         {
           "category": "Technology",
-          "eligible": 7,
-          "count": 7,
+          "eligible": 12,
+          "count": 12,
           "coverage": 100,
-          "change": 3.6421269044634386,
-          "median": 3.497190402588579,
-          "up": 7,
-          "down": 0
+          "change": 3.054473255913274,
+          "median": 2.929196293650349,
+          "up": 11,
+          "down": 1
         },
         {
           "category": "Infrastructure",
@@ -468,7 +468,7 @@
     "state": {
       "inception": "2026-11-18",
       "reviewMonth": "2026-11",
-      "checkedAt": "2026-11-27T02:52:04.352Z",
+      "checkedAt": "2026-11-27T10:07:52.608Z",
       "reviewWarning": "",
       "points": [
         {
@@ -495,6 +495,11 @@
           "date": "2026-11-25",
           "level": 1008.6795842456,
           "nifty": 1023.1145058895054
+        },
+        {
+          "date": "2026-11-26",
+          "level": 1011.1260193195592,
+          "nifty": 1025.6746570406926
         }
       ],
       "book": [
@@ -1267,18 +1272,8 @@
         }
       ]
     },
-    "pendingNavs": {
-      "date": "2026-11-26",
-      "total": 74,
-      "pending": [
-        {
-          "code": "100522",
-          "name": "Franklin India Technology Fund-Growth",
-          "lastDate": null
-        }
-      ]
-    },
-    "brief": "From 2026-11-23 to 2026-11-25, the MFD category-leader model moved +0.51%, versus +1.85% for the Nifty 50 fund basket, a difference of -1.33 percentage points. This model mixes equity, hybrid, arbitrage and debt categories; the baskets have different risk exposures. Latest recorded interval may span multiple days.",
+    "pendingNavs": null,
+    "brief": "From 2026-11-25 to 2026-11-26, the MFD category-leader model moved +0.24%, versus +0.25% for the Nifty 50 fund basket, a difference of -0.01 percentage points. This model mixes equity, hybrid, arbitrage and debt categories; the baskets have different risk exposures. Latest recorded interval may span multiple days.",
     "rules": "Top 3 eligible Regular Growth schemes per category by trailing 3-year NAV CAGR at the previous month-end. Equal weight across 17 categories, then equal weight within each category. Overseas, defunct, unclaimed and named closed-series schemes are excluded. Only schemes with paired positive NAVs are ranked; ties use AMFI code. Nifty comparison: all eligible plain Nifty 50 Regular Growth index funds, equally weighted. Reviews run monthly on the next successful scheduled GitHub refresh; implementation uses available NAVs after the ranking date. No real transactions. Category assignments use the provider’s current scheme master rather than historical point-in-time classifications. Unadjusted NAVs can be affected by mergers or unit splits; rankings are research signals, not recommendations. Fees are reflected in NAV; investor taxes, exit loads and transaction costs are excluded.",
     "source": "AMFI NAV history and scheme master via Tigzig; MFapi fallback for missing constituent NAVs, with matching-date and anchor checks",
     "navFallback": [],
@@ -1286,16 +1281,14 @@
     "automation": "Scheduled GitHub refresh; monthly reviews use previous month-end rankings and the next complete new NAV observation. Missed monthly selections are not backfilled."
   },
   "automation": {
-    "checkedAt": "2026-11-27T02:51:50.788Z",
+    "checkedAt": "2026-11-27T10:07:37.367Z",
     "status": {
       "market": "ok",
       "weekly": "ok",
       "monthly": "ok",
-      "index": "pending"
+      "index": "ok"
     },
-    "warnings": [
-      "Index awaiting 1 NAV(s) for 2026-11-26 after primary and MFapi checks; automatic catch-up checks remain scheduled."
-    ],
+    "warnings": [],
     "schedule": "07:10, 16:40 and 23:10 IST daily; additional NAV catch-up checks at 01:50, 09:50, 13:50 and 19:50 IST (GitHub scheduling can be delayed)",
     "providerNotes": "Public provider access may be delayed, rate-limited or unavailable. Quote and NAV dates are shown independently."
   }
