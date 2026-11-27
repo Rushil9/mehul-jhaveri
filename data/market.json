@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "publishedAt": "2026-11-27T19:53:43.260Z",
+  "publishedAt": "2026-11-27T22:44:02.578Z",
   "appVersion": "1.15.0",
   "market": {
     "data": [
@@ -98,7 +98,7 @@
         "low": 17740.8
       }
     ],
-    "fetchedAt": "2026-11-27T19:53:43.260Z"
+    "fetchedAt": "2026-11-27T22:44:02.578Z"
   },
   "snapshots": {
     "weekly": {
@@ -108,7 +108,7 @@
       "summary": "Technology had the highest average return (1.37%) and Banking & financial services the lowest (-1.45%) among 17 categories with at least 3 funds and 80% coverage. These are equal-weight fund-category averages, not market indices.",
       "source": "AMFI NAV history and scheme master via Tigzig",
       "sourceUrl": "https://www.tigzig.com/apis/mf-nav",
-      "fetchedAt": "2026-11-27T19:53:58.154Z",
+      "fetchedAt": "2026-11-27T22:44:18.505Z",
       "rows": [
         {
           "category": "Large cap",
@@ -289,7 +289,7 @@
       "summary": "Banking & financial services had the highest average return (13.86%) and Liquid the lowest (0.55%) among 17 categories with at least 3 funds and 80% coverage. These are equal-weight fund-category averages, not market indices.",
       "source": "AMFI NAV history and scheme master via Tigzig",
       "sourceUrl": "https://www.tigzig.com/apis/mf-nav",
-      "fetchedAt": "2026-11-27T19:53:58.169Z",
+      "fetchedAt": "2026-11-27T22:44:18.521Z",
       "rows": [
         {
           "category": "Large cap",
@@ -468,7 +468,7 @@
     "state": {
       "inception": "2026-11-18",
       "reviewMonth": "2026-11",
-      "checkedAt": "2026-11-27T19:54:07.293Z",
+      "checkedAt": "2026-11-27T22:44:27.800Z",
       "reviewWarning": "",
       "points": [
         {
@@ -1336,7 +1336,7 @@
     "automation": "Scheduled GitHub refresh; monthly reviews use previous month-end rankings and the next complete new NAV observation. Missed monthly selections are not backfilled."
   },
   "automation": {
-    "checkedAt": "2026-11-27T19:53:43.260Z",
+    "checkedAt": "2026-11-27T22:44:02.578Z",
     "status": {
       "market": "ok",
       "weekly": "ok",
