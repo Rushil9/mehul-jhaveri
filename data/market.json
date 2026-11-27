@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "publishedAt": "2026-11-27T10:07:37.367Z",
+  "publishedAt": "2026-11-27T13:54:02.000Z",
   "appVersion": "1.15.0",
   "market": {
     "data": [
@@ -21,11 +21,11 @@
       },
       {
         "name": "SENSEX",
-        "value": 83327.58,
+        "value": 83339.26,
         "previousClose": 84328.59375,
-        "change": -1.187039538412793,
-        "points": -1001.0137499999983,
-        "asOf": "2026-11-27T09:52:37.000Z",
+        "change": -1.173188957630411,
+        "points": -989.3337500000052,
+        "asOf": "2026-11-27T10:02:25.000Z",
         "source": "Yahoo Finance · snapshot may be delayed",
         "sourceUrl": "https://finance.yahoo.com/quote/%5EBSESN/"
       },
@@ -98,7 +98,7 @@
         "low": 17740.8
       }
     ],
-    "fetchedAt": "2026-11-27T10:07:37.367Z"
+    "fetchedAt": "2026-11-27T13:54:02.000Z"
   },
   "snapshots": {
     "weekly": {
@@ -108,7 +108,7 @@
       "summary": "Technology had the highest average return (2.72%) and Infrastructure the lowest (-1.01%) among 17 categories with at least 3 funds and 80% coverage. These are equal-weight fund-category averages, not market indices.",
       "source": "AMFI NAV history and scheme master via Tigzig",
       "sourceUrl": "https://www.tigzig.com/apis/mf-nav",
-      "fetchedAt": "2026-11-27T10:07:52.585Z",
+      "fetchedAt": "2026-11-27T13:54:15.514Z",
       "rows": [
         {
           "category": "Large cap",
@@ -289,7 +289,7 @@
       "summary": "Banking & financial services had the highest average return (14.76%) and Arbitrage the lowest (0.44%) among 17 categories with at least 3 funds and 80% coverage. These are equal-weight fund-category averages, not market indices.",
       "source": "AMFI NAV history and scheme master via Tigzig",
       "sourceUrl": "https://www.tigzig.com/apis/mf-nav",
-      "fetchedAt": "2026-11-27T10:07:52.597Z",
+      "fetchedAt": "2026-11-27T13:54:15.531Z",
       "rows": [
         {
           "category": "Large cap",
@@ -468,7 +468,7 @@
     "state": {
       "inception": "2026-11-18",
       "reviewMonth": "2026-11",
-      "checkedAt": "2026-11-27T10:07:52.608Z",
+      "checkedAt": "2026-11-27T13:54:15.544Z",
       "reviewWarning": "",
       "points": [
         {
@@ -1281,7 +1281,7 @@
     "automation": "Scheduled GitHub refresh; monthly reviews use previous month-end rankings and the next complete new NAV observation. Missed monthly selections are not backfilled."
   },
   "automation": {
-    "checkedAt": "2026-11-27T10:07:37.367Z",
+    "checkedAt": "2026-11-27T13:54:02.000Z",
     "status": {
       "market": "ok",
       "weekly": "ok",
