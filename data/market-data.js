@@ -1,6 +1,6 @@
 window.MFD_PUBLIC_DATA = {
   "schema": 1,
-  "publishedAt": "2026-11-28T09:26:41.032Z",
+  "publishedAt": "2026-11-28T13:01:52.726Z",
   "appVersion": "1.15.0",
   "market": {
     "data": [
@@ -98,17 +98,17 @@ window.MFD_PUBLIC_DATA = {
         "low": 17740.8
       }
     ],
-    "fetchedAt": "2026-11-28T09:26:41.032Z"
+    "fetchedAt": "2026-11-28T13:01:52.726Z"
   },
   "snapshots": {
     "weekly": {
       "period": "weekly",
       "start": "2026-11-20",
       "end": "2026-11-27",
-      "summary": "Technology had the highest average return (1.62%) and Banking & financial services the lowest (-1.45%) among 17 categories with at least 3 funds and 80% coverage. These are equal-weight fund-category averages, not market indices.",
+      "summary": "Technology had the highest average return (1.53%) and Banking & financial services the lowest (-1.45%) among 17 categories with at least 3 funds and 80% coverage. These are equal-weight fund-category averages, not market indices.",
       "source": "AMFI NAV history and scheme master via Tigzig",
       "sourceUrl": "https://www.tigzig.com/apis/mf-nav",
-      "fetchedAt": "2026-11-28T09:26:53.726Z",
+      "fetchedAt": "2026-11-28T13:02:05.967Z",
       "rows": [
         {
           "category": "Large cap",
@@ -202,12 +202,12 @@ window.MFD_PUBLIC_DATA = {
         },
         {
           "category": "Technology",
-          "eligible": 9,
-          "count": 9,
+          "eligible": 10,
+          "count": 10,
           "coverage": 100,
-          "change": 1.62220249554922,
-          "median": 1.769110507693572,
-          "up": 9,
+          "change": 1.5300347853988527,
+          "median": 1.6961118193393965,
+          "up": 10,
           "down": 0
         },
         {
@@ -289,7 +289,7 @@ window.MFD_PUBLIC_DATA = {
       "summary": "Banking & financial services had the highest average return (13.86%) and Liquid the lowest (0.55%) among 17 categories with at least 3 funds and 80% coverage. These are equal-weight fund-category averages, not market indices.",
       "source": "AMFI NAV history and scheme master via Tigzig",
       "sourceUrl": "https://www.tigzig.com/apis/mf-nav",
-      "fetchedAt": "2026-11-28T09:26:53.746Z",
+      "fetchedAt": "2026-11-28T13:02:05.983Z",
       "rows": [
         {
           "category": "Large cap",
@@ -383,12 +383,12 @@ window.MFD_PUBLIC_DATA = {
         },
         {
           "category": "Technology",
-          "eligible": 9,
-          "count": 9,
+          "eligible": 10,
+          "count": 10,
           "coverage": 100,
-          "change": 1.7000784195947882,
-          "median": 2.1228503350921857,
-          "up": 8,
+          "change": 1.728912997351517,
+          "median": 2.0556372661271305,
+          "up": 9,
           "down": 1
         },
         {
@@ -468,7 +468,7 @@ window.MFD_PUBLIC_DATA = {
     "state": {
       "inception": "2026-11-18",
       "reviewMonth": "2026-11",
-      "checkedAt": "2026-11-28T09:27:00.351Z",
+      "checkedAt": "2026-11-28T13:02:12.394Z",
       "reviewWarning": "",
       "points": [
         {
@@ -1331,7 +1331,7 @@ window.MFD_PUBLIC_DATA = {
     "automation": "Scheduled GitHub refresh; monthly reviews use previous month-end rankings and the next complete new NAV observation. Missed monthly selections are not backfilled."
   },
   "automation": {
-    "checkedAt": "2026-11-28T09:26:41.032Z",
+    "checkedAt": "2026-11-28T13:01:52.726Z",
     "status": {
       "market": "ok",
       "weekly": "ok",
