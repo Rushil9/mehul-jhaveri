@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "publishedAt": "2026-11-28T00:41:23.182Z",
+  "publishedAt": "2026-11-28T09:26:41.032Z",
   "appVersion": "1.15.0",
   "market": {
     "data": [
@@ -98,17 +98,17 @@
         "low": 17740.8
       }
     ],
-    "fetchedAt": "2026-11-28T00:41:23.182Z"
+    "fetchedAt": "2026-11-28T09:26:41.032Z"
   },
   "snapshots": {
     "weekly": {
       "period": "weekly",
       "start": "2026-11-20",
       "end": "2026-11-27",
-      "summary": "Technology had the highest average return (1.37%) and Banking & financial services the lowest (-1.45%) among 17 categories with at least 3 funds and 80% coverage. These are equal-weight fund-category averages, not market indices.",
+      "summary": "Technology had the highest average return (1.62%) and Banking & financial services the lowest (-1.45%) among 17 categories with at least 3 funds and 80% coverage. These are equal-weight fund-category averages, not market indices.",
       "source": "AMFI NAV history and scheme master via Tigzig",
       "sourceUrl": "https://www.tigzig.com/apis/mf-nav",
-      "fetchedAt": "2026-11-28T00:41:36.568Z",
+      "fetchedAt": "2026-11-28T09:26:53.726Z",
       "rows": [
         {
           "category": "Large cap",
@@ -122,13 +122,13 @@
         },
         {
           "category": "Large & mid cap",
-          "eligible": 32,
-          "count": 32,
+          "eligible": 33,
+          "count": 33,
           "coverage": 100,
-          "change": -0.4894166270239944,
-          "median": -0.4850670924640421,
+          "change": -0.4864064505218109,
+          "median": -0.4842378623241439,
           "up": 5,
-          "down": 26
+          "down": 27
         },
         {
           "category": "Mid cap",
@@ -152,12 +152,12 @@
         },
         {
           "category": "Flexi cap",
-          "eligible": 38,
-          "count": 38,
+          "eligible": 39,
+          "count": 39,
           "coverage": 100,
-          "change": -0.518269113065074,
-          "median": -0.5893807260068107,
-          "up": 5,
+          "change": -0.4945865831149328,
+          "median": -0.5814647580997812,
+          "up": 6,
           "down": 32
         },
         {
@@ -182,12 +182,12 @@
         },
         {
           "category": "Healthcare",
-          "eligible": 14,
-          "count": 14,
+          "eligible": 15,
+          "count": 15,
           "coverage": 100,
-          "change": 1.1063555800452944,
-          "median": 1.1437492823027307,
-          "up": 14,
+          "change": 1.098348989836547,
+          "median": 1.1173184357541777,
+          "up": 15,
           "down": 0
         },
         {
@@ -202,12 +202,12 @@
         },
         {
           "category": "Technology",
-          "eligible": 6,
-          "count": 6,
+          "eligible": 9,
+          "count": 9,
           "coverage": 100,
-          "change": 1.373124324516117,
-          "median": 1.4528559633904314,
-          "up": 6,
+          "change": 1.62220249554922,
+          "median": 1.769110507693572,
+          "up": 9,
           "down": 0
         },
         {
@@ -262,12 +262,12 @@
         },
         {
           "category": "Liquid",
-          "eligible": 48,
-          "count": 48,
+          "eligible": 49,
+          "count": 49,
           "coverage": 100,
-          "change": 0.1000479569383821,
-          "median": 0.10343894590552072,
-          "up": 47,
+          "change": 0.10006740785289708,
+          "median": 0.10341097531625376,
+          "up": 48,
           "down": 0
         },
         {
@@ -289,7 +289,7 @@
       "summary": "Banking & financial services had the highest average return (13.86%) and Liquid the lowest (0.55%) among 17 categories with at least 3 funds and 80% coverage. These are equal-weight fund-category averages, not market indices.",
       "source": "AMFI NAV history and scheme master via Tigzig",
       "sourceUrl": "https://www.tigzig.com/apis/mf-nav",
-      "fetchedAt": "2026-11-28T00:41:36.588Z",
+      "fetchedAt": "2026-11-28T09:26:53.746Z",
       "rows": [
         {
           "category": "Large cap",
@@ -303,12 +303,12 @@
         },
         {
           "category": "Large & mid cap",
-          "eligible": 32,
-          "count": 31,
-          "coverage": 96.875,
-          "change": 9.287206835795734,
-          "median": 9.225322911057887,
-          "up": 31,
+          "eligible": 33,
+          "count": 32,
+          "coverage": 96.96969696969697,
+          "change": 9.263564803719314,
+          "median": 9.215171915779985,
+          "up": 32,
           "down": 0
         },
         {
@@ -333,12 +333,12 @@
         },
         {
           "category": "Flexi cap",
-          "eligible": 38,
-          "count": 38,
+          "eligible": 39,
+          "count": 39,
           "coverage": 100,
-          "change": 9.175740079539201,
-          "median": 9.544375073840294,
-          "up": 38,
+          "change": 9.128037783194236,
+          "median": 9.527430108784651,
+          "up": 39,
           "down": 0
         },
         {
@@ -363,12 +363,12 @@
         },
         {
           "category": "Healthcare",
-          "eligible": 14,
-          "count": 14,
+          "eligible": 15,
+          "count": 15,
           "coverage": 100,
-          "change": 10.42570421943782,
-          "median": 10.276113068310288,
-          "up": 14,
+          "change": 10.155538893312588,
+          "median": 9.882041869360414,
+          "up": 15,
           "down": 0
         },
         {
@@ -383,13 +383,13 @@
         },
         {
           "category": "Technology",
-          "eligible": 6,
-          "count": 6,
+          "eligible": 9,
+          "count": 9,
           "coverage": 100,
-          "change": 2.4237396344930233,
-          "median": 2.5138183763883992,
-          "up": 6,
-          "down": 0
+          "change": 1.7000784195947882,
+          "median": 2.1228503350921857,
+          "up": 8,
+          "down": 1
         },
         {
           "category": "Infrastructure",
@@ -443,12 +443,12 @@
         },
         {
           "category": "Liquid",
-          "eligible": 48,
-          "count": 48,
+          "eligible": 49,
+          "count": 49,
           "coverage": 100,
-          "change": 0.5500121550502216,
-          "median": 0.572050721065287,
-          "up": 47,
+          "change": 0.550635857706123,
+          "median": 0.5720510869720474,
+          "up": 48,
           "down": 0
         },
         {
@@ -468,7 +468,7 @@
     "state": {
       "inception": "2026-11-18",
       "reviewMonth": "2026-11",
-      "checkedAt": "2026-11-28T00:41:44.741Z",
+      "checkedAt": "2026-11-28T09:27:00.351Z",
       "reviewWarning": "",
       "points": [
         {
@@ -1297,11 +1297,6 @@
           "lastDate": null
         },
         {
-          "code": "100522",
-          "name": "Franklin India Technology Fund-Growth",
-          "lastDate": null
-        },
-        {
           "code": "131666",
           "name": "Aditya Birla Sun Life Balanced Advantage Fund - Regular Plan - Growth Option",
           "lastDate": null
@@ -1336,7 +1331,7 @@
     "automation": "Scheduled GitHub refresh; monthly reviews use previous month-end rankings and the next complete new NAV observation. Missed monthly selections are not backfilled."
   },
   "automation": {
-    "checkedAt": "2026-11-28T00:41:23.182Z",
+    "checkedAt": "2026-11-28T09:26:41.032Z",
     "status": {
       "market": "ok",
       "weekly": "ok",
@@ -1344,7 +1339,7 @@
       "index": "pending"
     },
     "warnings": [
-      "Index awaiting 10 NAV(s) for 2026-11-27 after primary and MFapi checks; automatic catch-up checks remain scheduled."
+      "Index awaiting 9 NAV(s) for 2026-11-27 after primary and MFapi checks; automatic catch-up checks remain scheduled."
     ],
     "schedule": "07:10, 16:40 and 23:10 IST daily; additional NAV catch-up checks at 01:50, 09:50, 13:50 and 19:50 IST (GitHub scheduling can be delayed)",
     "providerNotes": "Public provider access may be delayed, rate-limited or unavailable. Quote and NAV dates are shown independently."
